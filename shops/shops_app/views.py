@@ -5,8 +5,8 @@ from django.contrib.gis.db.models.functions import Distance
 from .models import Shop
 
 
-longitude = 19.9499962
-latitude = 49.9333296
+longitude = 29.9345962
+latitude = 39.9356496
 
 user_location = Point(longitude, latitude, srid=4326)
 
