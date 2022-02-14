@@ -1,0 +1,6773 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T10:50:38Z",
+    "timestamp_areas_base": "2022-02-13T10:31:28Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 26862937,
+      "lat": 49.1640319,
+      "lon": 20.1340595,
+      "tags": {
+        "alt_name:de": "Gerlachspitze",
+        "ele": "2654",
+        "ele:bpv": "2654.53",
+        "importance": "international",
+        "loc_name": "Gerlach",
+        "loc_name:de": "Gerlach",
+        "name": "Gerlachovský štít",
+        "name:de": "Gerlsdorfer Spitze",
+        "name:hu": "Gerlachfalvi-csúcs",
+        "name:pl": "Gerlach",
+        "name:ru": "Герлаховский Штит",
+        "name:uk": "Герлаховський пік",
+        "natural": "peak",
+        "old_name:1949–1961": "Stalinův štít",
+        "old_name:de": "Stalinspitze",
+        "prominence": "2356",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q81213",
+        "wikipedia": "sk:Gerlachovský štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30933045,
+      "lat": 49.1580734,
+      "lon": 20.2279232,
+      "tags": {
+        "ele": "1285",
+        "name": "Hrebienok",
+        "name:de": "Kämmchen",
+        "name:hu": "Tarajka",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 260278694,
+      "lat": 49.1628335,
+      "lon": 20.0000452,
+      "tags": {
+        "alt_name:de": "Ochsenhorn",
+        "ele": "2494",
+        "ele:bpv": "2494.41",
+        "importance": "national",
+        "name": "Kriváň",
+        "name:de": "Krummhorn",
+        "name:hu": "Kriván",
+        "name:pl": "Krywań",
+        "natural": "peak",
+        "prominence": "400",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q845990",
+        "wikipedia": "hu:Kriván"
+      }
+    },
+    {
+      "type": "node",
+      "id": 321624997,
+      "lat": 49.1878013,
+      "lon": 20.0536809,
+      "tags": {
+        "ele": "2376",
+        "ele:bpv": "2375.95",
+        "name": "Cubryna / Čubrina",
+        "name:de": "Fichtentalspitze",
+        "name:hu": "Csubrina",
+        "name:pl": "Cubryna",
+        "name:sk": "Čubrina",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9196971",
+        "wikipedia": "pl:Cubryna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 380642206,
+      "lat": 49.2301884,
+      "lon": 20.2647921,
+      "tags": {
+        "ele": "1947",
+        "ele:bpv": "1947.70",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Bujačí vrch",
+        "name:de": "Stirnberg",
+        "name:pl": "Bujaczy Wierch",
+        "natural": "peak",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9181726",
+        "wikipedia": "sk:Bujačí vrch"
+      }
+    },
+    {
+      "type": "node",
+      "id": 380643761,
+      "lat": 49.2369551,
+      "lon": 20.2419179,
+      "tags": {
+        "ele": "1980",
+        "name": "Prostredné Jatky",
+        "name:hu": "Középső-Mészárszék",
+        "name:pl": "Pośrednie Jatki",
+        "natural": "peak",
+        "source": "wikipedia",
+        "wikidata": "Q11826418",
+        "wikipedia": "sk:Prostredné Jatky"
+      }
+    },
+    {
+      "type": "node",
+      "id": 380644313,
+      "lat": 49.2371324,
+      "lon": 20.2329345,
+      "tags": {
+        "ele": "2020",
+        "ele:bpv": "2019.88",
+        "name": "Zadné Jatky",
+        "name:hu": "Hátsó-Mészárszék",
+        "name:pl": "Zadnie Jatki",
+        "natural": "peak",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9385742",
+        "wikipedia": "sk:Zadné Jatky"
+      }
+    },
+    {
+      "type": "node",
+      "id": 380644502,
+      "lat": 49.2368435,
+      "lon": 20.2203458,
+      "tags": {
+        "ele": "2061",
+        "ele:bpv": "2060.94",
+        "name": "Hlúpy",
+        "name:de": "Törrichter Gern",
+        "name:hu": "Bolond-Gerő",
+        "name:pl": "Szalony Wierch",
+        "natural": "peak",
+        "prominence": "235",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9350769",
+        "wikipedia": "sk:Hlúpy (vrch v Tatrách)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 380645481,
+      "lat": 49.244845,
+      "lon": 20.2069507,
+      "tags": {
+        "ele": "2142",
+        "ele:bpv": "2145.22",
+        "name": "Ždiarska vidla",
+        "name:de": "Greiner",
+        "name:hu": "Határ-hegy",
+        "name:pl": "Płaczliwa Skała",
+        "natural": "peak",
+        "prominence": "173",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11832486",
+        "wikipedia": "sk:Ždiarska vidla"
+      }
+    },
+    {
+      "type": "node",
+      "id": 380646564,
+      "lat": 49.25033,
+      "lon": 20.1873852,
+      "tags": {
+        "alt_name": "Nový",
+        "ele": "2009",
+        "ele:bpv": "2010.54",
+        "name": "Nový vrch",
+        "name:pl": "Nowy Wierch",
+        "natural": "peak",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11793948",
+        "wikipedia": "sk:Nový (vrch v Tatrách)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 380648416,
+      "lat": 49.2511479,
+      "lon": 20.1766984,
+      "tags": {
+        "ele": "1890",
+        "name": "Muráň",
+        "name:de": "Wandberg",
+        "name:hu": "Murány",
+        "name:pl": "Murań",
+        "natural": "peak",
+        "source": "wikipedia",
+        "wikidata": "Q11786682",
+        "wikipedia": "sk:Muráň (vrch v Tatrách)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 380695706,
+      "lat": 49.1979918,
+      "lon": 20.2251697,
+      "tags": {
+        "ele": "2352",
+        "ele:bpv": "2351.94",
+        "name": "Huncovský štít",
+        "name:de": "Hunsdorfer Spitze",
+        "name:hu": "Hunfalvy-csúcs",
+        "name:pl": "Huncowski Szczyt",
+        "natural": "peak",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9294978",
+        "wikipedia": "sk:Huncovský štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 380695707,
+      "lat": 49.2006334,
+      "lon": 20.2204317,
+      "tags": {
+        "ele": "2513",
+        "ele:bpv": "2513.27",
+        "name": "Malý Kežmarský štít",
+        "name:de": "Weber-Spitze",
+        "name:hu": "Wéber-csúcs",
+        "name:pl": "Mały Kieżmarski Szczyt",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11772548",
+        "wikipedia": "sk:Malý Kežmarský štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 380695970,
+      "lat": 49.1992348,
+      "lon": 20.2194606,
+      "tags": {
+        "ele": "2556",
+        "ele:bpv": "2556.74",
+        "name": "Kežmarský štít",
+        "name:de": "Kesmarker Spitze",
+        "name:hu": "Késmárki-csúcs",
+        "name:pl": "Kieżmarski Szczyt",
+        "natural": "peak",
+        "prominence": "151",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q835239",
+        "wikipedia": "sk:Kežmarský štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 380705790,
+      "lat": 49.2052949,
+      "lon": 20.2009674,
+      "tags": {
+        "ele": "2425",
+        "ele:bpv": "2429.06",
+        "name": "Čierny štít",
+        "name:hu": "Papirusz-csúcs",
+        "name:pl": "Czarny Szczyt",
+        "natural": "peak",
+        "source": ", survey, GPS, wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11691997",
+        "wikipedia": "sk:Čierny štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 380717332,
+      "lat": 49.1985452,
+      "lon": 20.1827652,
+      "tags": {
+        "ele": "2627",
+        "ele:bpv": "2627.55",
+        "name": "Ľadový štít",
+        "name:de": "Eistaler Spitze",
+        "name:hu": "Jég-völgyi-csúcs",
+        "name:pl": "Lodowy Szczyt",
+        "natural": "peak",
+        "prominence": "286",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q344647",
+        "wikipedia": "sk:Ľadový štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 380721955,
+      "lat": 49.1660785,
+      "lon": 20.1845921,
+      "tags": {
+        "ele": "2452",
+        "ele:bpv": "2452.32",
+        "inscription": "Pred 350 rokmi ako prví vystúpili 25.VII.1664 na Slavkovský štít M.Jani, J.Buchholtz. M.Veisser a sprievodca poľovník v mene Božom hoci s veľkým ohrozením tela a života. 25.VII.2014 Veľký Slakov... a čo všetko sa zmenilo",
+        "man_made": "cross",
+        "name": "Slavkovský štít",
+        "name:de": "Schlagendorfer Spitze",
+        "name:hu": "Nagyszalóki-csúcs",
+        "name:pl": "Sławkowski Szczyt",
+        "natural": "peak",
+        "prominence": "182",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "summit:cross": "yes",
+        "wikidata": "Q770572",
+        "wikipedia": "en:Slavkovský štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 380725440,
+      "lat": 49.1782906,
+      "lon": 20.1439535,
+      "tags": {
+        "ele:bpv": "2378.89",
+        "name": "Veža nad Prielomom",
+        "name:pl": "Turnia nad Rohatką",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9362828",
+        "wikipedia": "pl:Turnia nad Rohatką"
+      }
+    },
+    {
+      "type": "node",
+      "id": 380745908,
+      "lat": 49.1823605,
+      "lon": 20.0482069,
+      "tags": {
+        "ele": "2367",
+        "ele:bpv": "2366.08",
+        "name": "Kôprovský štít",
+        "name:de": "Koprovaspitze",
+        "name:hu": "Kapor-csúcs",
+        "name:pl": "Koprowy Wierch",
+        "natural": "peak",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q723092",
+        "wikipedia": "sk:Kôprovský štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 382487001,
+      "lat": 49.1752787,
+      "lon": 20.1454588,
+      "tags": {
+        "ele": "2429",
+        "ele:bpv": "2428.58",
+        "name": "Východná Vysoká",
+        "name:hu": "Kis-Viszóka-csúcs",
+        "name:pl": "Mała Wysoka",
+        "natural": "peak",
+        "source": "wikipedia;gps",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q720940",
+        "wikipedia": "hu:Kis-Viszóka-csúcs"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385075802,
+      "lat": 49.2090171,
+      "lon": 20.1371475,
+      "tags": {
+        "ele": "2210",
+        "ele:bpv": "2210.68",
+        "name": "Široká",
+        "name:pl": "Szeroka Jaworzyńska",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3594269",
+        "wikipedia": "sk:Široká (vrch vo Vysokých Tatrách)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385076971,
+      "lat": 49.1899604,
+      "lon": 20.1827776,
+      "tags": {
+        "ele": "2461",
+        "ele:bpv": "2464.51",
+        "name": "Široká veža",
+        "name:de": "Roter Turm",
+        "name:hu": "Vörös-torony",
+        "name:pl": "Mały Lodowy Szczyt",
+        "natural": "peak",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11128858",
+        "wikipedia": "sk:Široká veža"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385080082,
+      "lat": 49.163637,
+      "lon": 20.0522186,
+      "tags": {
+        "ele": "2421",
+        "name": "Satan (N)",
+        "name:hu": "Sátán",
+        "name:pl": "Szatan",
+        "natural": "peak",
+        "source": "wikipedia",
+        "wikidata": "Q3505338",
+        "wikipedia": "sk:Satan (vrch)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385080083,
+      "lat": 49.1711041,
+      "lon": 20.1297633,
+      "tags": {
+        "ele": "2423",
+        "name": "Litvorový štít",
+        "name:hu": "Litvorovy-csúcs",
+        "name:pl": "Litworowy Szczyt",
+        "natural": "peak",
+        "source": "wikipedia",
+        "wikidata": "Q11762037",
+        "wikipedia": "sk:Litvorový štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385080084,
+      "lat": 49.173075,
+      "lon": 20.0935591,
+      "tags": {
+        "ele": "2547",
+        "ele:bpv": "2558.33",
+        "name": "Vysoká",
+        "name:de": "Tatra Spitze",
+        "name:hu": "Tátra-csúcs",
+        "name:pl": "Wysoka",
+        "natural": "peak",
+        "prominence": "277",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q669108",
+        "wikipedia": "hu:Tátra-csúcs"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385080085,
+      "lat": 49.1662301,
+      "lon": 20.1314792,
+      "tags": {
+        "ele": "2616",
+        "ele:bpv": "2617.22",
+        "name": "Zadný Gerlach",
+        "name:hu": "Hátsó-Gerlachfalvi-csúcs",
+        "name:pl": "Zadni Gerlach",
+        "natural": "peak",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q723698",
+        "wikipedia": "sk:Zadný Gerlach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385082796,
+      "lat": 49.1497515,
+      "lon": 20.0390871,
+      "tags": {
+        "ele": "2117",
+        "name": "Predné Solisko",
+        "name:hu": "Elülső-Szoliszkó",
+        "name:pl": "Skrajne Solisko",
+        "natural": "peak",
+        "source": "wikipedia",
+        "wikidata": "Q3504282",
+        "wikipedia": "sk:Predné Solisko"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385086143,
+      "lat": 49.2166412,
+      "lon": 20.2149573,
+      "tags": {
+        "ele": "2111",
+        "ele:bpv": "2109.96",
+        "name": "Kozí štít",
+        "name:hu": "Zerge-csúcs",
+        "name:pl": "Kozia Turnia",
+        "natural": "peak",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11744578",
+        "wikipedia": "sk:Kozí štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385086144,
+      "lat": 49.1602226,
+      "lon": 20.1422623,
+      "tags": {
+        "ele": "2433",
+        "ele:bpv": "2429.87",
+        "name": "Kvetnicová veža",
+        "name:hu": "Virágoskert-torony",
+        "name:pl": "Ponad Ogród Turnia",
+        "natural": "peak",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11823795",
+        "wikipedia": "sk:Kvetnicová veža"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385086941,
+      "lat": 49.2023384,
+      "lon": 20.1864004,
+      "tags": {
+        "ele": "2464",
+        "ele:bpv": "2477.80",
+        "name": "Snehový štít",
+        "name:hu": "Hó-csúcs",
+        "name:pl": "Śnieżny Szczyt",
+        "natural": "peak",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9395715",
+        "wikipedia": "sk:Snehový štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385087772,
+      "lat": 49.182439,
+      "lon": 20.179407,
+      "tags": {
+        "ele": "2130",
+        "ele:bpv": "2137.70",
+        "name": "Strelecká veža",
+        "natural": "peak",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9347133",
+        "wikipedia": "sk:Strelecká veža"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385087773,
+      "lat": 49.1552021,
+      "lon": 20.0356308,
+      "tags": {
+        "ele": "2302",
+        "ele:bpv": "2313.60",
+        "name": "Štrbské Solisko",
+        "name:hu": "Csorbai-Szoliszkó",
+        "name:pl": "Szczyrbskie Solisko",
+        "natural": "peak",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q645048",
+        "wikipedia": "sk:Štrbské Solisko"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385092713,
+      "lat": 49.1759435,
+      "lon": 20.0675358,
+      "tags": {
+        "ele": "2227",
+        "ele:bpv": "2231.82",
+        "name": "Mengusovský Volovec",
+        "name:hu": "Olga-csúcs",
+        "natural": "peak",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9378027",
+        "wikipedia": "sk:Mengusovský Volovec"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385092714,
+      "lat": 49.167778,
+      "lon": 20.083889,
+      "tags": {
+        "ele": "2354",
+        "name": "Kôpky",
+        "name:de": "Kopki",
+        "name:hu": "Kopki",
+        "name:pl": "Kopa Popradzka",
+        "natural": "peak",
+        "source": "wikipedia",
+        "wikidata": "Q11743307"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385095983,
+      "lat": 49.174312,
+      "lon": 20.1038444,
+      "tags": {
+        "alt_name": "Ganek",
+        "ele": "2462",
+        "ele:bpv": "2464.52",
+        "name": "Gánok",
+        "name:hu": "Ganek",
+        "name:pl": "Ganek",
+        "natural": "peak",
+        "prominence": "182",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3504228",
+        "wikipedia": "sk:Gánok (vrch)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385095985,
+      "lat": 49.1633052,
+      "lon": 20.0134093,
+      "tags": {
+        "ele": "2375",
+        "ele:bpv": "2374.99",
+        "name": "Krátka",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11750225",
+        "wikipedia": "cs:Krátka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385099949,
+      "lat": 49.2006806,
+      "lon": 19.9738886,
+      "tags": {
+        "ele": "2052",
+        "ele:bpv": "2052.28",
+        "name": "Veľká kopa",
+        "name:hu": "Nagy-Kapor-tető",
+        "name:pl": "Wielka Kopa Koprowa",
+        "natural": "peak",
+        "prominence": "176",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q2681073",
+        "wikipedia": "sk:Veľká kopa (vrch vo Vysokých Tatrách)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385100707,
+      "lat": 49.16385,
+      "lon": 20.0218067,
+      "tags": {
+        "ele": "2351",
+        "ele:bpv": "2355.67",
+        "name": "Ostrá",
+        "natural": "peak",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q12773211",
+        "wikipedia": "cs:Ostrá (Vysoké Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385101740,
+      "lat": 49.1975923,
+      "lon": 20.207996,
+      "tags": {
+        "ele": "2621",
+        "ele:bpv": "2621.38",
+        "name": "Pyšný štít",
+        "name:hu": "Fecske-torony",
+        "name:pl": "Durny Szczyt",
+        "natural": "peak",
+        "prominence": "111",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3063874",
+        "wikipedia": "sk:Pyšný štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385102371,
+      "lat": 49.1856529,
+      "lon": 20.1906671,
+      "tags": {
+        "ele": "2385",
+        "ele:bpv": "2386.64",
+        "name": "Žltá veža",
+        "name:hu": "Sárga-torony",
+        "name:pl": "Żółty Szczyt",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9397958",
+        "wikipedia": "cs:Žltá veža"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385103809,
+      "lat": 49.183056,
+      "lon": 20.0675,
+      "tags": {
+        "ele": "2410",
+        "name": "Mięguszowiecki Szczyt Czarny / Východný Mengusovský štít",
+        "name:de": "Östliche Mengsdorfer Spitze",
+        "name:hu": "Keleti-Menguszfalvi-csúcs",
+        "name:pl": "Mięguszowiecki Szczyt Czarny",
+        "name:sk": "Východný Mengusovský štít",
+        "natural": "peak",
+        "note:prominence": "97?",
+        "prominence": "103",
+        "wikidata": "Q11783967",
+        "wikipedia": "pl:Mięguszowiecki Szczyt Czarny"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385106041,
+      "lat": 49.1789015,
+      "lon": 20.0751157,
+      "tags": {
+        "ele": "2373",
+        "ele:bpv": "2373.41",
+        "name": "Volia veža / Wołowa Turnia",
+        "name:de": "Ochsenrückenturm",
+        "name:hu": "Ökörhát-torony",
+        "name:pl": "Wołowa Turnia",
+        "name:sk": "Volia veža",
+        "natural": "peak",
+        "old_name:sk": "Volova veža",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q1714138",
+        "wikipedia": "pl:Wołowa Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385106042,
+      "lat": 49.1878465,
+      "lon": 20.0892494,
+      "tags": {
+        "alt_name:sk": "Vyšný Žabí štít",
+        "ele": "2263",
+        "ele:bpv": "2259.49",
+        "name": "Veľký Žabí štít / Żabi Szczyt Wyżni",
+        "name:de": "Große Froschspitze",
+        "name:hu": "Nagy-Békás-csúcs",
+        "name:pl": "Żabi Szczyt Wyżni",
+        "name:sk": "Veľký Žabí štít",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3556467",
+        "wikipedia": "pl:Żabi Szczyt Wyżni"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385107931,
+      "lat": 49.2049298,
+      "lon": 20.2370981,
+      "tags": {
+        "ele": "2037",
+        "ele:bpv": "2038.04",
+        "name": "Veľká Svišťovka",
+        "name:de": "Grosser Ratzenberg",
+        "name:hu": "Nagy-Morgás",
+        "name:pl": "Rakuska Czuba",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3068016",
+        "wikipedia": "sk:Veľká Svišťovka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385107932,
+      "lat": 49.2134347,
+      "lon": 20.0068154,
+      "tags": {
+        "alt_name:de": "Walentinspitze",
+        "alt_name:hu": "Bálint-csúcs",
+        "alt_name:pl": "Walentkowa",
+        "ele": "2156",
+        "ele:bpv": "2156.15",
+        "name": "Valentková / Walentkowy Wierch",
+        "name:de": "Valentinsberg",
+        "name:hu": "Walentko-csúcs",
+        "name:pl": "Walentkowy Wierch",
+        "name:sk": "Valentková",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3495667",
+        "wikipedia": "pl:Walentkowy Wierch"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385113132,
+      "lat": 49.1849785,
+      "lon": 20.1943573,
+      "tags": {
+        "ele": "2441",
+        "ele:bpv": "2438.61",
+        "name": "Prostredný hrot",
+        "name:hu": "Középső-orom",
+        "name:pl": "Pośrednia Grań",
+        "natural": "peak",
+        "prominence": "181",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3502652",
+        "wikipedia": "cs:Prostredný hrot"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385113133,
+      "lat": 49.1845389,
+      "lon": 20.062749,
+      "tags": {
+        "ele": "2393",
+        "name": "Mięguszowiecki Szczyt Pośredni / Prostredný Mengusovský štít",
+        "name:de": "Mittlere Mengsdorfer Spitze",
+        "name:hu": "Középső-Menguszfalvi-csúcs",
+        "name:pl": "Mięguszowiecki Szczyt Pośredni",
+        "name:sk": "Prostredný Mengusovský štít",
+        "natural": "peak",
+        "wikidata": "Q1664928",
+        "wikipedia": "pl:Mięguszowiecki Szczyt Pośredni"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385115017,
+      "lat": 49.1833905,
+      "lon": 20.0880078,
+      "tags": {
+        "alt_name:hu": "Középső-Dénes-csúcs",
+        "alt_name:sk": "Nižné Rysy",
+        "description": "Trzeci pod względem wysokości szczyt w Polsce",
+        "ele": "2430",
+        "ele:bpv": "2430.83",
+        "name": "Malé Rysy / Niżnie Rysy",
+        "name:de": "Dénesspitze",
+        "name:hu": "Dénes-csúcs",
+        "name:pl": "Niżnie Rysy",
+        "name:sk": "Malé Rysy",
+        "natural": "peak",
+        "prominence": "65",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3284720",
+        "wikipedia": "pl:Niżnie Rysy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385115021,
+      "lat": 49.2230744,
+      "lon": 19.9981449,
+      "tags": {
+        "alt_name:sk": "Skrajná Túreň",
+        "ele": "2097",
+        "name": "Krajná Kopa / Skrajna Turnia",
+        "name:de": "Randturm",
+        "name:hu": "Szélső-torony",
+        "name:pl": "Skrajna Turnia",
+        "name:sk": "Krajná Kopa",
+        "natural": "peak",
+        "wikidata": "Q957545",
+        "wikipedia": "pl:Skrajna Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385118676,
+      "lat": 49.1619981,
+      "lon": 20.1363213,
+      "tags": {
+        "ele": "2601",
+        "name": "Kotlový štít",
+        "name:hu": "Kis-Gerlachfalvi-csúcs",
+        "name:pl": "Mały Gerlach",
+        "natural": "peak",
+        "source": "wikipedia",
+        "wikidata": "Q722948",
+        "wikipedia": "sk:Kotlový štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385118677,
+      "lat": 49.1573111,
+      "lon": 20.1140729,
+      "tags": {
+        "ele": "2537.5",
+        "ele:bpv": "2536.40",
+        "name": "Končistá",
+        "name:hu": "Koncsiszta",
+        "name:pl": "Kończysta",
+        "natural": "peak",
+        "prominence": "205",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3067234",
+        "wikipedia": "sk:Končistá (vrch vo Vysokých Tatrách)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385120972,
+      "lat": 49.2108111,
+      "lon": 20.1989509,
+      "tags": {
+        "ele": "2418",
+        "ele:bpv": "2418.67",
+        "name": "Kolový štít",
+        "name:hu": "Vörös-tavi-csúcs",
+        "name:pl": "Kołowy Szczyt",
+        "natural": "peak",
+        "prominence": "161",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "survey, GPS",
+        "wikidata": "Q963578",
+        "wikipedia": "sk:Kolový štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385122764,
+      "lat": 49.1659124,
+      "lon": 20.115792,
+      "tags": {
+        "ele": "2396",
+        "ele:bpv": "2394.03",
+        "name": "Popradský ľadový štít",
+        "name:de": "Eisseespitze",
+        "name:hu": "Jeges-tavi csúcs",
+        "name:pl": "Zmarzły Szczyt",
+        "natural": "peak",
+        "source": "wikipedia, jedn.nazvosl.",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9391496",
+        "wikipedia": "sk:Popradský Ľadový štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385123163,
+      "lat": 49.1813259,
+      "lon": 20.1301403,
+      "tags": {
+        "ele": "2086",
+        "name": "Hrubá veža",
+        "name:hu": "Vastag-torony",
+        "name:pl": "Hruba Turnia",
+        "natural": "peak",
+        "source": "wikipedia",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9294467",
+        "wikipedia": "sk:Hrubá veža"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385123541,
+      "lat": 49.2067762,
+      "lon": 20.0134135,
+      "tags": {
+        "alt_name:de": "Glattkoppe",
+        "alt_name:hu": "Glatki",
+        "ele": "2065",
+        "name": "Gładki Wierch / Hladký štít",
+        "name:de": "Glatter Berg",
+        "name:hu": "Sima-hegy",
+        "name:pl": "Gładki Wierch",
+        "name:sk": "Hladký štít",
+        "natural": "peak",
+        "prominence": "71",
+        "wikidata": "Q3495327",
+        "wikipedia": "pl:Gładki Wierch"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385125633,
+      "lat": 49.1713376,
+      "lon": 20.1556776,
+      "tags": {
+        "ele": "2476",
+        "ele:bpv": "2488.79",
+        "name": "Bradavica",
+        "name:hu": "Bibircs",
+        "name:pl": "Staroleśny Szczyt",
+        "natural": "peak",
+        "prominence": "276",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9344166",
+        "wikipedia": "sk:Bradavica (vrch vo Vysokých Tatrách)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385126354,
+      "lat": 49.1653667,
+      "lon": 20.1241414,
+      "tags": {
+        "ele": "2448",
+        "ele:bpv": "2456.90",
+        "name": "Batizovský štít",
+        "name:de": "Botzdorfer Spitze",
+        "name:hu": "Batizfalvi-csúcs",
+        "name:pl": "Batyżowiecki Szczyt",
+        "natural": "peak",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q810837",
+        "wikipedia": "sk:Batizovský štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385126469,
+      "lat": 49.2016399,
+      "lon": 20.1971608,
+      "tags": {
+        "ele": "2526",
+        "ele:bpv": "2529.90",
+        "name": "Baranie rohy",
+        "name:de": "Grünseespitze",
+        "name:hu": "Zöld-tavi-csúcs",
+        "name:pl": "Baranie Rogi",
+        "natural": "peak",
+        "prominence": "137",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q720919",
+        "wikipedia": "sk:Baranie rohy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385127091,
+      "lat": 49.2196942,
+      "lon": 20.2081025,
+      "tags": {
+        "ele": "2229",
+        "ele:bpv": "2229.51",
+        "name": "Jahňací štít",
+        "name:de": "Weisse Seespitze",
+        "name:hu": "Fehér-tavi-csúcs",
+        "name:pl": "Jagnięcy Szczyt",
+        "natural": "peak",
+        "prominence": "140",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q722853",
+        "wikipedia": "sk:Jahňací štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387943094,
+      "lat": 49.2566414,
+      "lon": 20.1570668,
+      "tags": {
+        "alt_name": "Malý Muráň",
+        "ele": "1356",
+        "name": "Kôň",
+        "name:pl": "Mały Murań",
+        "natural": "peak",
+        "source": "skgeodesy.sk",
+        "wikidata": "Q11772567",
+        "wikipedia": "sk:Kôň (vrch v Belianskych Tatrách)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387943527,
+      "lat": 49.261667,
+      "lon": 20.147778,
+      "tags": {
+        "ele": "1268",
+        "name": "Rogová",
+        "name:pl": "Rogowa",
+        "natural": "peak",
+        "source": "wikipedia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430646675,
+      "lat": 49.2283259,
+      "lon": 19.9879485,
+      "tags": {
+        "ele": "2012",
+        "name": "Beskid / Beskyd",
+        "name:pl": "Beskid",
+        "name:sk": "Beskyd",
+        "natural": "peak",
+        "wikidata": "Q9169549",
+        "wikipedia": "pl:Beskid (Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 495300329,
+      "lat": 49.1781191,
+      "lon": 19.7932674,
+      "tags": {
+        "ele": "2050",
+        "ele:bpv": "2052.22",
+        "name": "Ostredok",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11826393",
+        "wikipedia": "cs:Ostredok (Západní Tatry, 2050 m)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 495953908,
+      "lat": 49.1734895,
+      "lon": 19.740856,
+      "tags": {
+        "alt_name": "Veľký vrch, Baranétz",
+        "ele": "2184",
+        "ele:bpv": "2181.62",
+        "name": "Baranec",
+        "name:pl": "Baraniec",
+        "natural": "peak",
+        "prominence": "362",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3509342",
+        "wikipedia": "sk:Baranec (vrch v Západných Tatrách)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 495956991,
+      "lat": 49.1932511,
+      "lon": 19.8012755,
+      "tags": {
+        "ele": "2194",
+        "ele:bpv": "2193.84",
+        "name": "Jakubina",
+        "natural": "peak",
+        "prominence": "256",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3509792",
+        "wikipedia": "cs:Jakubina"
+      }
+    },
+    {
+      "type": "node",
+      "id": 495957128,
+      "lat": 49.1926302,
+      "lon": 19.8409972,
+      "tags": {
+        "ele": "2159",
+        "name": "Blyšť / Błyszcz",
+        "name:pl": "Błyszcz",
+        "name:sk": "Blyšť",
+        "natural": "peak",
+        "wikidata": "Q9183560",
+        "wikipedia": "pl:Błyszcz (Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 495957137,
+      "lat": 49.1886176,
+      "lon": 19.8425872,
+      "tags": {
+        "ele": "2248",
+        "ele:bpv": "2248.12",
+        "name": "Bystrá",
+        "name:pl": "Bystra",
+        "name:sk": "Bystrá",
+        "natural": "peak",
+        "prominence": "562",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q1018683",
+        "wikipedia": "sk:Bystrá (vrch v Západných Tatrách)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 495997371,
+      "lat": 49.1825778,
+      "lon": 19.7479755,
+      "tags": {
+        "ele": "2074",
+        "ele:bpv": "2071.69",
+        "name": "Smrek",
+        "name:pl": "Smrek",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9338772",
+        "wikipedia": "pl:Smrek (Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 496004470,
+      "lat": 49.1539,
+      "lon": 19.7318523,
+      "tags": {
+        "ele": "1683",
+        "ele:bpv": "1696.10",
+        "name": "Malý Holý vrch",
+        "name:pl": "Goły Wierch",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9275003",
+        "wikipedia": "sk:Holý vrch"
+      }
+    },
+    {
+      "type": "node",
+      "id": 496805357,
+      "lat": 49.2309899,
+      "lon": 19.9038058,
+      "tags": {
+        "ele": "2096",
+        "name": "Ciemniak / Temniak",
+        "name:cs": "Temniak",
+        "name:hu": "Sötét-hegy",
+        "name:pl": "Ciemniak",
+        "name:sk": "Temniak",
+        "natural": "peak",
+        "wikidata": "Q11690580",
+        "wikipedia": "pl:Ciemniak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 496805362,
+      "lat": 49.2365066,
+      "lon": 19.9322877,
+      "tags": {
+        "ele": "2005",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Kondratova kopa / Kopa Kondracka",
+        "name:hu": "Konrád-púp",
+        "name:pl": "Kopa Kondracka",
+        "name:sk": "Kondratova kopa",
+        "natural": "peak",
+        "source:name": "skgeodesy.sk",
+        "wikidata": "Q11743304",
+        "wikipedia": "pl:Kopa Kondracka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 604346764,
+      "lat": 49.1738838,
+      "lon": 20.1484051,
+      "tags": {
+        "ele": "2414",
+        "ele:bpv": "2420.21",
+        "name": "Kupola",
+        "name:pl": "Baniasta Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11687300",
+        "wikipedia": "sk:Kupola (Vysoké Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 604346765,
+      "lat": 49.171956,
+      "lon": 20.1528995,
+      "tags": {
+        "ele": "2409",
+        "ele:bpv": "2443.46",
+        "name": "Weszterov štít",
+        "name:hu": "Weszter-csúcs",
+        "name:pl": "Zwalista Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9392197",
+        "wikipedia": "pl:Zwalista Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 604346766,
+      "lat": 49.1703337,
+      "lon": 20.1661583,
+      "tags": {
+        "ele": "2354",
+        "ele:bpv": "2360.51",
+        "name": "Východná Slavkovská veža",
+        "name:hu": "Kelet-Szalóki-torony",
+        "name:pl": "Skrajna Nowoleśna Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9338149",
+        "wikipedia": "pl:Skrajna Nowoleśna Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 604540279,
+      "lat": 49.1678768,
+      "lon": 20.1786279,
+      "tags": {
+        "ele": "2346",
+        "ele:bpv": "2350.07",
+        "name": "Slavkovská kopa",
+        "name:hu": "Nagyszalóki-gerincpúp",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9353055",
+        "wikipedia": "cs:Slavkovská kopa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 604540290,
+      "lat": 49.1782906,
+      "lon": 20.1439535,
+      "tags": {
+        "ele": "2376",
+        "ele:bpv": "2378.89",
+        "name": "Divá veža",
+        "name:hu": "Vörös-patak-torony",
+        "name:pl": "Dzika Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9248893",
+        "wikipedia": "sk:Divá veža"
+      }
+    },
+    {
+      "type": "node",
+      "id": 604540297,
+      "lat": 49.1828585,
+      "lon": 20.147385,
+      "tags": {
+        "ele": "2382",
+        "name": "Svišťový štít",
+        "name:de": "Mittelgebirge",
+        "name:hu": "Kozéphegység",
+        "name:pl": "Świstowy Szczyt",
+        "natural": "peak",
+        "source": "survey, GPS",
+        "wikidata": "Q9396501",
+        "wikipedia": "sk:Svišťový štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 604540303,
+      "lat": 49.1857081,
+      "lon": 20.1588594,
+      "tags": {
+        "ele": "2260",
+        "ele:bpv": "2261.36",
+        "name": "Hranatá veža",
+        "name:de": "Mautstein",
+        "name:pl": "Graniasta Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11701291",
+        "wikipedia": "pl:Graniasta Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 604540316,
+      "lat": 49.1881863,
+      "lon": 20.1629305,
+      "tags": {
+        "ele": "2385",
+        "ele:bpv": "2387.72",
+        "name": "Malý Javorový štít",
+        "name:de": "Kleine Krötenseespitze",
+        "name:hu": "Jávor-csúcs",
+        "name:pl": "Mały Jaworowy Szczyt",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11772542",
+        "wikipedia": "sk:Malý Javorový štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 604540323,
+      "lat": 49.1876347,
+      "lon": 20.1682871,
+      "tags": {
+        "ele": "2418",
+        "ele:bpv": "2418.17",
+        "name": "Javorový štít",
+        "name:de": "Krötenseespitze",
+        "name:hu": "Varangyos-tavi-csúcs",
+        "name:pl": "Jaworowy Szczyt",
+        "natural": "peak",
+        "prominence": "188",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11723440",
+        "wikipedia": "sk:Javorový štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 604540333,
+      "lat": 49.1886696,
+      "lon": 20.1763825,
+      "tags": {
+        "ele": "2367",
+        "ele:bpv": "2364.20",
+        "name": "Ostrý štít",
+        "name:de": "Spitzer Turm",
+        "name:hu": "Hegyes-torony",
+        "name:pl": "Ostry Szczyt",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11800791",
+        "wikipedia": "sk:Ostrý štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040256,
+      "lat": 49.1739411,
+      "lon": 20.1345904,
+      "tags": {
+        "ele": "2319",
+        "ele:bpv": "2319.62",
+        "name": "Velický štít",
+        "name:hu": "Felkai-csúcs",
+        "name:pl": "Wielicki Szczyt",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9372747",
+        "wikipedia": "sk:Velický štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040259,
+      "lat": 49.1631936,
+      "lon": 20.1635527,
+      "tags": {
+        "ele": "2227",
+        "ele:bpv": "2224.19",
+        "name": "Velická kopa",
+        "name:hu": "Fonatos",
+        "name:pl": "Wielicka Kopa",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9372740",
+        "wikipedia": "pl:Wielicka Kopa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040260,
+      "lat": 49.1660248,
+      "lon": 20.1591128,
+      "tags": {
+        "ele": "2318",
+        "ele:bpv": "2320.14",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Veľká Granátová veža",
+        "name:hu": "Nagy-Gránátfal-torony",
+        "name:pl": "Wielka Granacka Turnia",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9372785",
+        "wikipedia": "pl:Wielka Granacka Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040262,
+      "lat": 49.1717195,
+      "lon": 20.1611655,
+      "tags": {
+        "ele": "2380",
+        "ele:bpv": "2388.92",
+        "name": "Západná Slavkovská veža",
+        "name:hu": "Nyugati-Szalóki-torony",
+        "name:pl": "Zadnia Nowoleśna Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9385723",
+        "wikipedia": "pl:Zadnia Nowoleśna Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040264,
+      "lat": 49.1834433,
+      "lon": 20.1634957,
+      "tags": {
+        "ele": "2098",
+        "ele:bpv": "2100.03",
+        "name": "Zbojnícka kopa",
+        "name:pl": "Zbójnicka Kopka",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040265,
+      "lat": 49.1897971,
+      "lon": 20.1583822,
+      "tags": {
+        "ele": "2291",
+        "ele:bpv": "2289.12",
+        "name": "Velká Javorová veža",
+        "name:hu": "Hátsó-Jávor-torony",
+        "natural": "peak",
+        "source": "landsat; knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040266,
+      "lat": 49.1864665,
+      "lon": 20.1595578,
+      "tags": {
+        "ele": "2272",
+        "name": "Rovienková veža",
+        "name:pl": "Rówienkowa Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "wikidata": "Q9325609",
+        "wikipedia": "pl:Rówienkowa Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040268,
+      "lat": 49.1928464,
+      "lon": 20.1492732,
+      "tags": {
+        "ele": "2222",
+        "ele:bpv": "2221.00",
+        "name": "Predná Javorová veža",
+        "name:hu": "Elülső-Jávor-torony",
+        "natural": "peak",
+        "source": "landsat; knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q31568279"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040269,
+      "lat": 49.1973637,
+      "lon": 20.1435312,
+      "tags": {
+        "ele": "2203",
+        "ele:bpv": "2203.27",
+        "name": "Žabí vrch",
+        "name:hu": "Békás-hegy",
+        "natural": "peak",
+        "source": "landsat; knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q31568262"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040271,
+      "lat": 49.1799045,
+      "lon": 20.2019862,
+      "tags": {
+        "ele": "2088",
+        "ele:bpv": "2095.06",
+        "name": "Malý Kostol",
+        "name:hu": "Kis-Templom",
+        "natural": "peak",
+        "source": "landsat; knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q31568196"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040273,
+      "lat": 49.1828171,
+      "lon": 20.19672,
+      "tags": {
+        "name": "Chmúrna veža",
+        "name:hu": "Fabesch-torony",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "wikidata": "Q31568065"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040274,
+      "lat": 49.1850157,
+      "lon": 20.1932355,
+      "tags": {
+        "ele": "2420",
+        "ele:bpv": "2438.61",
+        "name": "Malý hrot",
+        "name:pl": "Mała Pośrednia Grań",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040275,
+      "lat": 49.1772779,
+      "lon": 20.2086731,
+      "tags": {
+        "ele:bpv": "1884.15",
+        "name": "Zadný Oštep",
+        "name:pl": "Wielka Rywocińska Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040278,
+      "lat": 49.1824958,
+      "lon": 20.2219343,
+      "tags": {
+        "ele": "2041",
+        "ele:bpv": "2079.12",
+        "name": "Lomnický hrb",
+        "name:pl": "Skrajna Łomnicka Czuba",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040279,
+      "lat": 49.1862154,
+      "lon": 20.2177198,
+      "tags": {
+        "ele": "2214",
+        "name": "Veľká Lomnická veža",
+        "name:hu": "Nagy-Lomnici-torony",
+        "name:pl": "Wielka Łomnicka Baszta",
+        "natural": "peak",
+        "source": "landsat;knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040280,
+      "lat": 49.1984421,
+      "lon": 20.2160419,
+      "tags": {
+        "ele": "2523",
+        "ele:bpv": "2522.66",
+        "name": "Veľká Vidlová veža",
+        "name:de": "Große Gabelspitze",
+        "name:hu": "Villa-gerinc",
+        "name:pl": "Wielki Szczyt Wideł",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9372974",
+        "wikipedia": "pl:Wielki Szczyt Wideł"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040723,
+      "lat": 49.170137,
+      "lon": 20.1077554,
+      "tags": {
+        "ele": "2426",
+        "ele:bpv": "2426.95",
+        "name": "Zlobivá",
+        "name:hu": "Márta-csúcs",
+        "name:pl": "Żłobisty Szczyt",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9397995",
+        "wikipedia": "sk:Zlobivá"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605040725,
+      "lat": 49.1684975,
+      "lon": 20.1117713,
+      "tags": {
+        "alt_name": "Snežné kopy",
+        "ele": "2327",
+        "name": "Snežná kopa",
+        "name:pl": "Śnieżne Kopy",
+        "name:sk": "Snežné kopy",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:alt_name": "skgeodesy.sk",
+        "source:name": "skgeodesy.sk, P-42/1988",
+        "wikidata": "Q260733",
+        "wikipedia": "pl:Śnieżne Kopy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282313,
+      "lat": 49.1591068,
+      "lon": 20.0013625,
+      "tags": {
+        "ele": "2334",
+        "name": "Malý Kriváň",
+        "name:de": "Kleiner Krummhorn",
+        "name:hu": "Kis-Kriván",
+        "name:pl": "Mały Krywań",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "wikidata": "Q11772561",
+        "wikipedia": "pl:Mały Krywań (Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282314,
+      "lat": 49.1596521,
+      "lon": 20.0119969,
+      "tags": {
+        "ele": "2197",
+        "name": "Krátka veža",
+        "name:pl": "Mała Krótka",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "wikidata": "Q16575709",
+        "wikipedia": "pl:Mała Krótka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282315,
+      "lat": 49.155171,
+      "lon": 20.0119571,
+      "tags": {
+        "ele": "2079",
+        "name": "Jamská kopa",
+        "name:pl": "Jamska Kopa",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "wikidata": "Q16978676",
+        "wikipedia": "pl:Jamska Kopa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282316,
+      "lat": 49.1581508,
+      "lon": 20.0213474,
+      "tags": {
+        "ele": "2272",
+        "name": "Liptovská veža",
+        "name:hu": "Liptói-torony",
+        "name:pl": "Liptowskie Turnie",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "wikidata": "Q16572292",
+        "wikipedia": "pl:Liptowskie Turnie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282318,
+      "lat": 49.1551347,
+      "lon": 20.0210245,
+      "tags": {
+        "ele": "2129",
+        "name": "Ostrá veža",
+        "name:hu": "Osztra-torony",
+        "name:pl": "Ważecka Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "wikidata": "Q9371754",
+        "wikipedia": "pl:Ważecka Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282319,
+      "lat": 49.1570613,
+      "lon": 20.0339557,
+      "tags": {
+        "ele": "2336",
+        "ele:bpv": "2334.50",
+        "name": "Malé Solisko",
+        "name:hu": "Kis-Szoliszkó",
+        "name:pl": "Małe Solisko",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11772199",
+        "wikipedia": "pl:Małe Solisko"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282320,
+      "lat": 49.1626741,
+      "lon": 20.0319763,
+      "tags": {
+        "ele": "2412",
+        "ele:bpv": "2413.90",
+        "name": "Veľké Solisko",
+        "name:hu": "Nagy-Szoliszkó",
+        "name:pl": "Wielkie Solisko",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q940456",
+        "wikipedia": "pl:Wielkie Solisko"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282321,
+      "lat": 49.1997096,
+      "lon": 19.9945521,
+      "tags": {
+        "alt_name": "Zadná Garajova kopa",
+        "ele": "1949",
+        "ele:bpv": "1947.23",
+        "name": "Tichý kopec",
+        "name:hu": "Csendes-hegy",
+        "name:pl": "Zadnia Garajowa Kopa",
+        "natural": "peak",
+        "source": "landsat; knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q31568521",
+        "wikipedia": "pl:Zadnia Garajowa Kopa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282322,
+      "lat": 49.1794803,
+      "lon": 20.0055222,
+      "tags": {
+        "ele": "2221",
+        "name": "Hrubá kopa",
+        "name:hu": "Nyugati-Hrubó-csúcs",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q31567631"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282324,
+      "lat": 49.1768626,
+      "lon": 20.0100728,
+      "tags": {
+        "ele": "2349",
+        "ele:bpv": "2349.09",
+        "name": "Nefcerská veža",
+        "name:hu": "Nefcer-torony",
+        "name:pl": "Niewcyrska Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q13537436",
+        "wikipedia": "sk:Nefcerské veže"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282343,
+      "lat": 49.2011513,
+      "lon": 20.0052203,
+      "tags": {
+        "ele": "1979",
+        "ele:bpv": "1979.37",
+        "name": "Tichý vrch",
+        "name:hu": "Csendes-hegy",
+        "name:pl": "Cichy Wierch",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11690548",
+        "wikipedia": "pl:Cichy Wierch"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282344,
+      "lat": 49.1522669,
+      "lon": 20.0583007,
+      "tags": {
+        "ele": "2202",
+        "ele:bpv": "2203.14",
+        "name": "Patria",
+        "name:hu": "Pátria",
+        "name:pl": "Skrajna Baszta",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3368848",
+        "wikipedia": "sk:Patria (vrch vo Vysokých Tatrách)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282350,
+      "lat": 49.1557957,
+      "lon": 20.0575666,
+      "tags": {
+        "ele": "2288",
+        "ele:bpv": "2286.55",
+        "name": "Malá Bašta",
+        "name:hu": "Kis-Bástya",
+        "name:pl": "Mała Baszta",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11772029",
+        "wikipedia": "sk:Malá Bašta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282351,
+      "lat": 49.1603668,
+      "lon": 20.0550023,
+      "tags": {
+        "ele": "2374",
+        "ele:bpv": "2373.21",
+        "name": "Predná Bašta",
+        "name:hu": "Elülső-bástya",
+        "name:pl": "Pośrednia Baszta",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11826378",
+        "wikipedia": "pl:Pośrednia Baszta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282361,
+      "lat": 49.1708218,
+      "lon": 20.0476171,
+      "tags": {
+        "ele": "2340",
+        "ele:bpv": "2340.94",
+        "name": "Hlinská veža",
+        "name:hu": "Hlinszka-torony",
+        "name:pl": "Hlińska Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9293142",
+        "wikipedia": "sk:Hlinská veža"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282362,
+      "lat": 49.1668186,
+      "lon": 20.0508431,
+      "tags": {
+        "ele": "2364",
+        "ele:bpv": "2363.86",
+        "name": "Veľká Capia veža",
+        "name:hu": "Nagy-Zerge-tavi-torony",
+        "name:pl": "Wielka Capia Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9372779",
+        "wikipedia": "pl:Wielka Capia Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282363,
+      "lat": 49.148385,
+      "lon": 20.0846751,
+      "tags": {
+        "ele": "1890",
+        "name": "Ihla v Ostrve",
+        "name:hu": "Erzsike-torony",
+        "name:pl": "Igła w Osterwie",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11711521",
+        "wikipedia": "pl:Igła w Osterwie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282364,
+      "lat": 49.1499103,
+      "lon": 20.0899777,
+      "tags": {
+        "ele": "1984",
+        "ele:bpv": "1981.15",
+        "name": "Ostrva",
+        "name:hu": "Oszterva-csúcs",
+        "name:pl": "Osterwa",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q1226783",
+        "wikipedia": "sk:Ostrva"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282365,
+      "lat": 49.1535074,
+      "lon": 20.1017938,
+      "tags": {
+        "ele": "2284",
+        "ele:bpv": "2285.34",
+        "name": "Tupá",
+        "name:hu": "Tompa-hegy",
+        "name:pl": "Tępa",
+        "natural": "peak",
+        "prominence": "105",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9363851",
+        "wikipedia": "sk:Tupá (vrch vo Vysokých Tatrách)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282366,
+      "lat": 49.1680901,
+      "lon": 20.093714,
+      "tags": {
+        "ele": "2254",
+        "ele:bpv": "2263.32",
+        "name": "Veľká dračia hlava",
+        "name:de": "Drachenseeturm",
+        "name:hu": "Sárkány-tavi-torony",
+        "name:pl": "Siarkan",
+        "natural": "peak",
+        "source": "landsat; knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9336239"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282367,
+      "lat": 49.1737045,
+      "lon": 20.0915347,
+      "tags": {
+        "ele": "2500",
+        "ele:bpv": "2510.21",
+        "name": "Ťažký štít",
+        "name:de": "Martin Roth Spitze",
+        "name:hu": "Roth Márton-csúcs",
+        "name:pl": "Czeski Szczyt",
+        "name:sk": "Ťažký štít",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q836644",
+        "wikipedia": "sk:Ťažký štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282368,
+      "lat": 49.1635928,
+      "lon": 20.0953175,
+      "tags": {
+        "ele": "2137",
+        "ele:bpv": "2154.29",
+        "name": "Zlomisková veža",
+        "name:de": "Trümmentalturm",
+        "name:hu": "Omladék-völgyi-torony",
+        "name:pl": "Złomiska Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9393326",
+        "wikipedia": "pl:Złomiska Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282375,
+      "lat": 49.1628881,
+      "lon": 20.1145238,
+      "tags": {
+        "ele": "2466",
+        "ele:bpv": "2465.79",
+        "name": "Malá Končistá",
+        "name:pl": "Mała Kończysta",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11772066",
+        "wikipedia": "pl:Mała Kończysta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282380,
+      "lat": 49.1728175,
+      "lon": 20.1056479,
+      "tags": {
+        "ele": "2428",
+        "ele:bpv": "2428.83",
+        "name": "Rumanov štít",
+        "name:hu": "Ruman-csúcs",
+        "name:pl": "Rumanowy Szczyt",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9323961",
+        "wikipedia": "sk:Rumanov štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282382,
+      "lat": 49.1705887,
+      "lon": 20.1143906,
+      "tags": {
+        "name": "Veža železnej brány",
+        "name:pl": "Zasłonista Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282389,
+      "lat": 49.183297,
+      "lon": 20.0939127,
+      "tags": {
+        "ele": "2254",
+        "ele:bpv": "2255.00",
+        "name": "Ťažká veža",
+        "name:de": "Böhmischseeturm",
+        "name:hu": "Cseh-tavi-torony",
+        "name:pl": "Ciężka Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11690726"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282395,
+      "lat": 49.177328,
+      "lon": 20.1051543,
+      "tags": {
+        "ele": "2197",
+        "name": "Kačacia veža",
+        "name:hu": "Kacsa-völgyi-torony",
+        "name:pl": "Kacza Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "wikidata": "Q11733191",
+        "wikipedia": "pl:Kacza Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282396,
+      "lat": 49.1991126,
+      "lon": 20.1018938,
+      "tags": {
+        "ele": "1973",
+        "name": "Malý Mlynár",
+        "name:de": "Kleiner Müller",
+        "name:hu": "Kis-Molnár",
+        "name:pl": "Mały Młynarz",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "wikidata": "Q11772569",
+        "wikipedia": "pl:Mały Młynarz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282398,
+      "lat": 49.1572696,
+      "lon": 20.1354169,
+      "tags": {
+        "alt_name": "Urbanove veže",
+        "ele": "2227",
+        "name": "Dromedárov chrbát",
+        "name:hu": "Dromedár-kúp",
+        "name:pl": "Urbanowe Turnie",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "wikidata": "Q9367020",
+        "wikipedia": "pl:Urbanowe Turnie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282403,
+      "lat": 49.167266,
+      "lon": 20.1312892,
+      "tags": {
+        "ele": "2606",
+        "name": "Lavínový štít",
+        "name:hu": "Déli-Lavina-torony",
+        "name:pl": "Lawinowy Szczyt",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "wikidata": "Q3219870",
+        "wikipedia": "sk:Lavínový štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282408,
+      "lat": 49.1699819,
+      "lon": 20.1562437,
+      "tags": {
+        "ele:bpv": "2443.83",
+        "name": "Rohatá veža",
+        "name:hu": "Gránátfal-csúcs",
+        "name:pl": "Rogata Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9311718",
+        "wikipedia": "pl:Rogata Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282411,
+      "lat": 49.1675966,
+      "lon": 20.1579077,
+      "tags": {
+        "ele": "2298",
+        "name": "Malá Granátová veža",
+        "name:hu": "Kis-Gránátfal-torony",
+        "name:pl": "Mała Granacka Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:position": "LLS: ÚGKK SR",
+        "wikidata": "Q11772049",
+        "wikipedia": "pl:Mała Granacka Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282428,
+      "lat": 49.1646715,
+      "lon": 20.1613133,
+      "tags": {
+        "ele": "2311",
+        "ele:bpv": "2301.72",
+        "name": "Dvojitá veža",
+        "name:hu": "Otto-csúcs",
+        "name:pl": "Dwoista Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9213191",
+        "wikipedia": "pl:Dwoista Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282436,
+      "lat": 49.2053662,
+      "lon": 20.186876,
+      "tags": {
+        "ele:bpv": "2337.02",
+        "name": "Veľká Snehová veža",
+        "name:hu": "Nagy-Feketetavi-torony",
+        "name:pl": "Wielka Śnieżna Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282440,
+      "lat": 49.2024971,
+      "lon": 20.1811241,
+      "tags": {
+        "ele": "2387",
+        "name": "Veľká Ľadová veža",
+        "name:hu": "Nagy-Jégvölgyi-torony",
+        "name:pl": "Wielka Kapałkowa Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "wikidata": "Q9372796",
+        "wikipedia": "pl:Wielka Kapałkowa Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282442,
+      "lat": 49.2035737,
+      "lon": 20.1730875,
+      "tags": {
+        "ele": "2185",
+        "ele:bpv": "2183.49",
+        "name": "Malá Ľadová veža",
+        "name:hu": "Kis-Jégvölgyi-torony",
+        "name:pl": "Mała Kapałkowa Turnia",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11772055",
+        "wikipedia": "pl:Mała Kapałkowa Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282445,
+      "lat": 49.2129063,
+      "lon": 20.1918582,
+      "tags": {
+        "ele": "2163",
+        "name": "Svinka",
+        "name:hu": "Szvinka",
+        "name:pl": "Świnka",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "wikidata": "Q9396467",
+        "wikipedia": "pl:Świnka (Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282452,
+      "lat": 49.1985112,
+      "lon": 20.2066329,
+      "tags": {
+        "ele": "2590",
+        "ele:bpv": "2589.29",
+        "name": "Malý Pyšný štít",
+        "name:de": "Téryspitze",
+        "name:pl": "Mały Durny Szczyt",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3284749",
+        "wikipedia": "sk:Malý Pyšný štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605282454,
+      "lat": 49.2121272,
+      "lon": 20.2010264,
+      "tags": {
+        "ele": "2312",
+        "name": "Zmrzlá veža",
+        "name:hu": "Vörös-tavi-torony",
+        "name:pl": "Modra Turnia",
+        "natural": "peak",
+        "source": "survey, GPS",
+        "wikidata": "Q11784534",
+        "wikipedia": "pl:Modra Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605507577,
+      "lat": 49.2037994,
+      "lon": 20.1357662,
+      "tags": {
+        "alt_name": "Zelená kopa",
+        "ele": "2130",
+        "ele:bpv": "2127.80",
+        "name": "štít Nad Zeleným",
+        "name:hu": "Zöld-tavi-hegy",
+        "name:pl": "Zielona Czuba",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9390969",
+        "wikipedia": "pl:Zielona Czuba"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605507581,
+      "lat": 49.2166739,
+      "lon": 20.1406382,
+      "tags": {
+        "ele": "2070",
+        "name": "Svišťovky",
+        "name:pl": "Świstowa Góra",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "wikidata": "Q9396490",
+        "wikipedia": "pl:Świstowa Góra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605507584,
+      "lat": 49.2010833,
+      "lon": 20.18435,
+      "tags": {
+        "ele": "2512",
+        "name": "Zadný Ľadový štít",
+        "name:de": "Eistaler Schulter",
+        "name:hu": "Jég-völgy-váll",
+        "name:pl": "Lodowy Zwornik",
+        "natural": "peak",
+        "source": "gps;knowledge",
+        "wikidata": "Q11762370",
+        "wikipedia": "sk:Zadný Ľadový štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605507586,
+      "lat": 49.2023384,
+      "lon": 20.1864004,
+      "tags": {
+        "ele:bpv": "2477.80",
+        "name": "Snehová strážnica",
+        "name:pl": "Śnieżny Zwornik",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q17619438",
+        "wikipedia": "pl:Śnieżny Zwornik"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605507591,
+      "lat": 49.2032436,
+      "lon": 20.1931682,
+      "tags": {
+        "ele": "2500",
+        "name": "Nižná Barania strážnica",
+        "name:hu": "Fekete-tavi-őrtorony",
+        "name:pl": "Wyżni Barani Zwornik",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "wikidata": "Q11792495",
+        "wikipedia": "pl:Niżni Barani Zwornik"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605507594,
+      "lat": 49.2116356,
+      "lon": 20.2099221,
+      "tags": {
+        "ele": "2138",
+        "ele:bpv": "2137.68",
+        "name": "Jastrabia veža",
+        "name:hu": "Karbunkulus-torony",
+        "name:pl": "Jastrzębia Turnia",
+        "natural": "peak",
+        "source": "survery, GPS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11046013",
+        "wikipedia": "sk:Jastrabia veža"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605507600,
+      "lat": 49.2229859,
+      "lon": 20.2002344,
+      "tags": {
+        "ele": "1923",
+        "ele:bpv": "1995.20",
+        "name": "Jahňacia vežička",
+        "name:pl": "Jagnięca Turniczka",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 615589377,
+      "lat": 49.1870329,
+      "lon": 20.0593515,
+      "tags": {
+        "description": "Drugi pod względem wysokości szczyt w Polsce",
+        "ele": "2438",
+        "name": "Mięguszowiecki Szczyt Wielki / Veľký Mengusovský štít",
+        "name:de": "Große Mengsdorfer Spitze",
+        "name:hu": "Nagy-Menguszfalvi-csúcs",
+        "name:pl": "Mięguszowiecki Szczyt Wielki",
+        "name:sk": "Veľký Mengusovský štít",
+        "natural": "peak",
+        "prominence": "213",
+        "wikidata": "Q3132319",
+        "wikipedia": "pl:Mięguszowiecki Szczyt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 615691875,
+      "lat": 49.216372,
+      "lon": 19.6139701,
+      "tags": {
+        "ele": "1316",
+        "ele:bpv": "1380.70",
+        "name": "Biela skala",
+        "name:pl": "Biała Skała",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9170303",
+        "wikipedia": "pl:Biała Skała (Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 615736220,
+      "lat": 49.246334,
+      "lon": 19.784356,
+      "tags": {
+        "ele": "1663",
+        "name": "Bobrowiec / Bobrovec",
+        "name:pl": "Bobrowiec",
+        "name:sk": "Bobrovec",
+        "natural": "peak",
+        "prominence": "307",
+        "wikidata": "Q9174818",
+        "wikipedia": "pl:Bobrowiec (Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 803761542,
+      "lat": 49.2366407,
+      "lon": 19.7666402,
+      "tags": {
+        "ele": "1653",
+        "ele:bpv": "1652.82",
+        "name": "Grześ / Lúčna",
+        "name:hu": "Rét-hegy",
+        "name:pl": "Grześ",
+        "name:sk": "Lúčna",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11702821",
+        "wikipedia": "pl:Grześ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 891526548,
+      "lat": 49.1951431,
+      "lon": 20.2130329,
+      "tags": {
+        "ele": "2634",
+        "ele:bpv": "2633.05",
+        "importance": "national",
+        "name": "Lomnický štít",
+        "name:de": "Lomnitzer Spitze",
+        "name:en": "Lomnicky Peak",
+        "name:hu": "Lomnici-csúcs",
+        "name:pl": "Łomnica",
+        "name:ru": "Ломницкий Штит",
+        "natural": "peak",
+        "prominence": "434",
+        "source": "landsat;knowledge, GPS, survey",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q1072105",
+        "wikipedia": "sk:Lomnický štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 943064021,
+      "lat": 49.1707303,
+      "lon": 20.0269731,
+      "tags": {
+        "ele": "2428",
+        "ele:bpv": "2428.43",
+        "name": "Hrubý vrch",
+        "name:hu": "Triumetal",
+        "name:pl": "Hruby Wierch",
+        "natural": "peak",
+        "old_name": "Triumetal",
+        "prominence": "252",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9294477",
+        "wikipedia": "sk:Hrubý vrch (Vysoké Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 943064140,
+      "lat": 49.1707076,
+      "lon": 20.041321,
+      "tags": {
+        "ele": "2381",
+        "ele:bpv": "2381.60",
+        "name": "Štrbský štít",
+        "name:hu": "Csorbai-csúcs",
+        "name:pl": "Szczyrbski Szczyt",
+        "natural": "peak",
+        "prominence": "101",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9351169",
+        "wikipedia": "sk:Štrbský štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 943081573,
+      "lat": 49.1686752,
+      "lon": 20.0273898,
+      "tags": {
+        "ele": "2403",
+        "ele:bpv": "2402.22",
+        "name": "Furkotský štít",
+        "name:hu": "Furkota-csúcs",
+        "name:pl": "Furkot",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q1004388",
+        "wikipedia": "sk:Furkotský štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 946080669,
+      "lat": 49.215958,
+      "lon": 19.7584624,
+      "tags": {
+        "ele": "1879",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Rakoń / Rákoň",
+        "name:hu": "Rákony",
+        "name:pl": "Rakoń",
+        "name:sk": "Rákoň",
+        "natural": "peak",
+        "source": "survey",
+        "wikidata": "Q9303722",
+        "wikipedia": "pl:Rakoń"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1010603515,
+      "lat": 49.2005566,
+      "lon": 19.6360834,
+      "tags": {
+        "ele": "1764",
+        "ele:bpv": "1764.14",
+        "name": "Ostrá",
+        "name:pl": "Ostra",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11800660",
+        "wikipedia": "pl:Ostra (Tatry Zachodnie)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1103562910,
+      "lat": 49.1992073,
+      "lon": 20.0333875,
+      "tags": {
+        "alt_name:pl": "Wyżni Liptowski Kostur",
+        "ele": "2083",
+        "ele:bpv": "2079.51",
+        "name": "Vyšný kostúr / Wyżni Kostur",
+        "name:de": "Oberer Liptauer Wachturm",
+        "name:hu": "Felső-Liptói-Őrszem",
+        "name:pl": "Wyżni Kostur",
+        "name:sk": "Vyšný kostúr",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q769933",
+        "wikipedia": "pl:Wyżni Kostur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1294543790,
+      "lat": 49.2050038,
+      "lon": 19.7785794,
+      "tags": {
+        "ele": "1958",
+        "name": "Deravá / Łopata",
+        "name:hu": "Lapát-hegy",
+        "name:pl": "Łopata",
+        "name:sk": "Deravá",
+        "natural": "peak",
+        "prominence": "119",
+        "wikidata": "Q9394322",
+        "wikipedia": "pl:Łopata (Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1294543835,
+      "lat": 49.199371,
+      "lon": 19.8199409,
+      "tags": {
+        "ele": "2176",
+        "ele:bpv": "2175.85",
+        "name": "Klin / Starorobociański Wierch",
+        "name:hu": "Ék-hegy",
+        "name:pl": "Starorobociański Wierch",
+        "name:sk": "Klin",
+        "natural": "peak",
+        "old_name:pl": "Wysoki Wierch",
+        "prominence": "219",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3544114",
+        "wikipedia": "en:Klin (mountain)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1295278125,
+      "lat": 49.2313255,
+      "lon": 19.966186,
+      "tags": {
+        "ele": "1874",
+        "name": "Pośredni Goryczkowy Wierch / Prostredný Goričkový vrch",
+        "name:pl": "Pośredni Goryczkowy Wierch",
+        "name:sk": "Prostredný Goričkový vrch",
+        "natural": "peak",
+        "wikidata": "Q11826357",
+        "wikipedia": "pl:Pośredni Goryczkowy Wierch"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1295278137,
+      "lat": 49.2323666,
+      "lon": 19.958014,
+      "tags": {
+        "alt_name:sk": "Horičkova kopa",
+        "ele": "1913",
+        "name": "Goričkova kopa / Goryczkowa Czuba",
+        "name:pl": "Goryczkowa Czuba",
+        "name:sk": "Goričkova kopa",
+        "natural": "peak",
+        "wikidata": "Q9274624",
+        "wikipedia": "pl:Goryczkowa Czuba"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1295278148,
+      "lat": 49.2337524,
+      "lon": 19.9404808,
+      "tags": {
+        "alt_name:sk": "Suchý vrch Kondracký",
+        "ele": "1893",
+        "name": "Suchy Wierch Kondracki / Suchá kopa",
+        "name:pl": "Suchy Wierch Kondracki",
+        "name:sk": "Suchá kopa",
+        "natural": "peak",
+        "source:name:sk": "skgeodesy.sk",
+        "wikidata": "Q9347852",
+        "wikipedia": "pl:Suchy Wierch Kondracki"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1295341390,
+      "lat": 49.2043926,
+      "lon": 19.8811306,
+      "tags": {
+        "alt_name:sk": "Smrečinský vrch",
+        "ele": "2066",
+        "name": "Smreczyński Wierch / Smrečiny",
+        "name:pl": "Smreczyński Wierch",
+        "name:sk": "Smrečiny",
+        "natural": "peak",
+        "prominence": "155",
+        "wikidata": "Q9338770",
+        "wikipedia": "pl:Smreczyński Wierch"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1295341400,
+      "lat": 49.1957969,
+      "lon": 19.8694558,
+      "tags": {
+        "ele": "2121",
+        "ele:bpv": "2127.23",
+        "name": "Kamienista / Veľká Kamenistá",
+        "name:pl": "Kamienista",
+        "name:sk": "Veľká Kamenistá",
+        "natural": "peak",
+        "prominence": "335",
+        "reg_name": "pl:Babie Nogi",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q2855198",
+        "wikipedia": "pl:Kamienista"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1295341402,
+      "lat": 49.2316647,
+      "lon": 19.9094918,
+      "tags": {
+        "ele": "2122",
+        "ele:bpv": "2122.23",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Kresanica / Krzesanica",
+        "name:hu": "Vésett-kő",
+        "name:pl": "Krzesanica",
+        "name:sk": "Kresanica",
+        "natural": "peak",
+        "prominence": "323",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q2582708",
+        "wikipedia": "pl:Krzesanica"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1295379316,
+      "lat": 49.2453567,
+      "lon": 19.7784434,
+      "tags": {
+        "ele": "1565",
+        "name": "Jamborowy Wierch",
+        "name:pl": "Jamborowy Wierch",
+        "natural": "peak",
+        "wikidata": "Q11716735",
+        "wikipedia": "pl:Jamborowy Wierch"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1405272571,
+      "lat": 49.2271906,
+      "lon": 20.2804041,
+      "tags": {
+        "ele": "1620",
+        "ele:bpv": "1601.45",
+        "name": "Skalné vráta",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1439414418,
+      "lat": 49.2333141,
+      "lon": 19.6078691,
+      "tags": {
+        "ele": "1047",
+        "ele:bpv": "1047.04",
+        "import_ref": "kapor_names",
+        "name": "Pálenica",
+        "natural": "peak",
+        "source": "kapor2",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1674619679,
+      "lat": 49.2001232,
+      "lon": 19.722981,
+      "tags": {
+        "ele": "2166",
+        "ele:bpv": "2167.42",
+        "name": "Hrubá kopa",
+        "name:pl": "Hruba Kopa",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3281051",
+        "wikipedia": "sk:Hrubá kopa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1674619681,
+      "lat": 49.2002302,
+      "lon": 19.757448,
+      "tags": {
+        "ele": "2088",
+        "ele:bpv": "2086.12",
+        "name": "Ostrý Roháč",
+        "name:hu": "Hegyes-Rohács",
+        "name:pl": "Rohacz Ostry",
+        "natural": "peak",
+        "prominence": "126",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3504121",
+        "wikipedia": "sk:Ostrý Roháč"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1674619682,
+      "lat": 49.2014218,
+      "lon": 19.7026587,
+      "tags": {
+        "ele": "2167",
+        "ele:bpv": "2166.36",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Pachoľa",
+        "name:pl": "Pachoł",
+        "natural": "peak",
+        "prominence": "127",
+        "source": "survey, GPS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3205693",
+        "wikipedia": "sk:Pachoľa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1735156627,
+      "lat": 49.1971207,
+      "lon": 19.748123,
+      "tags": {
+        "ele": "2125",
+        "ele:bpv": "2125.49",
+        "loc_name": "Plačlivô",
+        "name": "Plačlivé",
+        "name:pl": "Rohacz Płaczliwy",
+        "natural": "peak",
+        "prominence": "162",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3501678",
+        "wikipedia": "sk:Plačlivé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1859225067,
+      "lat": 49.1800732,
+      "lon": 19.6258054,
+      "tags": {
+        "ele": "1566",
+        "ele:bpv": "1566.24",
+        "name": "Babky",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "tourism": "viewpoint",
+        "wikidata": "Q9163794",
+        "wikipedia": "cs:Babky (Západní Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1862536196,
+      "lat": 49.1793175,
+      "lon": 20.0884343,
+      "tags": {
+        "ele": "2503",
+        "ele:bpv": "2500.66",
+        "importance": "national",
+        "name": "Rysy",
+        "name:de": "Meeraugspitze",
+        "name:hu": "Tengerszem-csúcs",
+        "name:pl": "Rysy",
+        "name:sk": "Rysy",
+        "natural": "peak",
+        "prominence": "193",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q672936",
+        "wikipedia": "sk:Rysy (vrch)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1908643653,
+      "lat": 49.2243851,
+      "lon": 19.6800923,
+      "tags": {
+        "alt_name": "Brestová",
+        "ele": "1903",
+        "ele:bpv": "1907.95",
+        "name": "Malá Brestová",
+        "name:pl": "Brestowa Kopa",
+        "natural": "peak",
+        "source": "survey, GPS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9179220",
+        "wikipedia": "sk:Brestová (vrch v Západných Tatrách)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2302916813,
+      "lat": 49.2075694,
+      "lon": 19.7631281,
+      "tags": {
+        "ele": "2064",
+        "ele:bpv": "2063.08",
+        "name": "Volovec / Wołowiec",
+        "name:hu": "Volovec",
+        "name:pl": "Wołowiec",
+        "name:sk": "Volovec",
+        "natural": "peak",
+        "prominence": "154",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q2783579",
+        "wikipedia": "en:Volovec (Tatra)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610887830,
+      "lat": 49.2245234,
+      "lon": 20.3098436,
+      "tags": {
+        "alt_name": "Kobulý vrch",
+        "alt_name:hu": "Csikó-hegy",
+        "ele": "1109",
+        "ele:bpv": "1108.65",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Kobylí vrch",
+        "name:hu": "Kobold-hegy",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610887837,
+      "lat": 49.1987072,
+      "lon": 20.2550436,
+      "tags": {
+        "ele": "1558",
+        "ele:bpv": "1558.91",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Malá Svišťovka",
+        "name:de": "Kleiner Ratzenberg",
+        "name:pl": "Mała Rakuska Czubka",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610887841,
+      "lat": 49.1934157,
+      "lon": 20.1026067,
+      "tags": {
+        "alt_name": "Veľký Mlynár",
+        "ele": "2170",
+        "ele:bpv": "2171.11",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Mlynár",
+        "name:de": "Grosser Müller",
+        "name:hu": "Nagy-Molnár",
+        "name:pl": "Wielki Młynarz",
+        "natural": "peak",
+        "prominence": "155",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11788152",
+        "wikipedia": "sk:Mlynár (vrch)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2621952681,
+      "lat": 49.2271224,
+      "lon": 20.2241975,
+      "tags": {
+        "ele": "1835",
+        "ele:bpv": "1837.75",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Belianska kopa",
+        "name:hu": "Bélai-domb",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2621952744,
+      "lat": 49.212979,
+      "lon": 20.1263527,
+      "tags": {
+        "ele": "2010",
+        "ele:bpv": "2010.78",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Zámky",
+        "name:pl": "Spismichałowa Czuba",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9340332",
+        "wikipedia": "pl:Spismichałowa Czuba"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2622522308,
+      "lat": 49.1837535,
+      "lon": 19.5916537,
+      "tags": {
+        "ele": "1018",
+        "ele:bpv": "1017.28",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Kamenné",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2622522330,
+      "lat": 49.2468029,
+      "lon": 19.7466573,
+      "tags": {
+        "ele": "1541",
+        "ele:bpv": "1541.36",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Kasne",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2622522609,
+      "lat": 49.2637135,
+      "lon": 19.6975002,
+      "tags": {
+        "ele": "1328",
+        "ele:bpv": "1327.90",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Okolík",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2622522620,
+      "lat": 49.1767095,
+      "lon": 19.6027973,
+      "tags": {
+        "ele": "1274",
+        "ele:bpv": "1274.69",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Opálenica",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2622522755,
+      "lat": 49.2532795,
+      "lon": 19.6479588,
+      "tags": {
+        "ele": "945",
+        "ele:bpv": "946.59",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Prieves",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2622523209,
+      "lat": 49.249023,
+      "lon": 19.6737586,
+      "tags": {
+        "ele": "1310",
+        "ele:bpv": "1310.81",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Štít",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2623551924,
+      "lat": 49.1900465,
+      "lon": 19.9288105,
+      "tags": {
+        "ele": "1712",
+        "ele:bpv": "1721.51",
+        "fixme": "review name with ZBGIS please",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Brdárova zvonica",
+        "name:pl": "Brdarowa Dzwonnica",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9179135",
+        "wikipedia": "pl:Brdarowa Dzwonnica"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2623551979,
+      "lat": 49.2150372,
+      "lon": 19.9162694,
+      "tags": {
+        "ele": "1839",
+        "ele:bpv": "1838.82",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Liptovská Tomanová",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q31568427"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2623552038,
+      "lat": 49.1789821,
+      "lon": 19.6448087,
+      "tags": {
+        "ele": "1460",
+        "ele:bpv": "1463.72",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Mních",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2623552150,
+      "lat": 49.188525,
+      "lon": 19.9665159,
+      "tags": {
+        "ele": "1984",
+        "ele:bpv": "1981.22",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Predný Holý vrch",
+        "name:hu": "Elülső-Kopasz-hegy",
+        "name:pl": "Skrajny Goły Wierch Liptowski",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9338164",
+        "wikipedia": "pl:Skrajny Goły Wierch Liptowski"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2623552343,
+      "lat": 49.1715492,
+      "lon": 19.9589555,
+      "tags": {
+        "ele": "1806",
+        "ele:bpv": "1817.28",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Všiváky",
+        "name:hu": "Tetves-tető",
+        "name:pl": "Wszywaki",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9378829",
+        "wikipedia": "pl:Wszywaki"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2623552468,
+      "lat": 49.1638989,
+      "lon": 19.9350625,
+      "tags": {
+        "ele": "1448",
+        "ele:bpv": "1449.90",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Štíty",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2623983375,
+      "lat": 49.165732,
+      "lon": 19.7518547,
+      "tags": {
+        "ele": "2044",
+        "ele:bpv": "2045.45",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Malý Baranec",
+        "name:pl": "Klin",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11740114",
+        "wikipedia": "pl:Klin (Tatry Zachodnie)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2623983485,
+      "lat": 49.150897,
+      "lon": 20.0210154,
+      "tags": {
+        "ele": "2062",
+        "ele:bpv": "2076.62",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Sedielková kopa",
+        "name:hu": "Szedilkó-domb",
+        "name:pl": "Siodełkowa Kopa",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9337194",
+        "wikipedia": "sk:Sedielková kopa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2630293067,
+      "lat": 49.2636231,
+      "lon": 20.1296051,
+      "tags": {
+        "ele": "1194",
+        "ele:bpv": "1194.51",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Gombošov vrch",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2630293078,
+      "lat": 49.1944505,
+      "lon": 19.9045804,
+      "tags": {
+        "ele": "1505",
+        "ele:bpv": "1507.92",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Hlina",
+        "name:pl": "Hlinik",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11709967",
+        "wikipedia": "pl:Hlinik"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2630293191,
+      "lat": 49.1719616,
+      "lon": 19.8579191,
+      "tags": {
+        "ele": "1985",
+        "ele:bpv": "1986.04",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Kotlová",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q31568395"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2630293241,
+      "lat": 49.1916247,
+      "lon": 19.6386733,
+      "tags": {
+        "ele": "1637",
+        "ele:bpv": "1637.51",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Malá Kopa",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11772061",
+        "wikipedia": "cs:Malá kopa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2630293254,
+      "lat": 49.2450866,
+      "lon": 20.147197,
+      "tags": {
+        "ele": "1471",
+        "ele:bpv": "1471.94",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Malý Baboš",
+        "name:pl": "Baboś",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9163805",
+        "wikipedia": "pl:Baboś"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2630293329,
+      "lat": 49.1785822,
+      "lon": 19.8306649,
+      "tags": {
+        "ele": "2162",
+        "ele:bpv": "2162.14",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Nižná Bystrá",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9385722",
+        "wikipedia": "cs:Nižná Bystrá"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2630293334,
+      "lat": 49.1722782,
+      "lon": 19.7955728,
+      "tags": {
+        "ele": "1920",
+        "ele:bpv": "1918.79",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Nižná Magura",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q31566356"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2630293367,
+      "lat": 49.2611279,
+      "lon": 19.7213669,
+      "tags": {
+        "ele": "1687",
+        "ele:bpv": "1686.82",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Osobitá",
+        "name:pl": "Osobita",
+        "natural": "peak",
+        "prominence": "242",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q2493642",
+        "wikipedia": "sk:Osobitá (vrch)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2630293524,
+      "lat": 49.2727861,
+      "lon": 19.7824555,
+      "tags": {
+        "ele": "1186",
+        "ele:bpv": "1192.24",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Turek",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2630293554,
+      "lat": 49.1968752,
+      "lon": 19.9425244,
+      "tags": {
+        "ele": "1859",
+        "ele:bpv": "1859.64",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Veľká Brdárova grapa",
+        "name:pl": "Wielka Brdarowa Grapa",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9372769",
+        "wikipedia": "pl:Wielka Brdarowa Grapa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2630293555,
+      "lat": 49.2028191,
+      "lon": 19.9834992,
+      "tags": {
+        "ele": "1969",
+        "ele:bpv": "1969.81",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Veľká Garajova kopa",
+        "name:hu": "Nagy-Csendes-tető",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q31568537"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2630293569,
+      "lat": 49.2377909,
+      "lon": 20.1506033,
+      "tags": {
+        "ele": "1523",
+        "ele:bpv": "1522.98",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Veľký Baboš",
+        "natural": "peak",
+        "prominence": "163",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2630293595,
+      "lat": 49.1862083,
+      "lon": 19.796153,
+      "tags": {
+        "ele": "2095",
+        "ele:bpv": "2093.87",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Vyšná Magura",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9380660",
+        "wikipedia": "cs:Vyšná Magura"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2630293600,
+      "lat": 49.2327307,
+      "lon": 20.1219802,
+      "tags": {
+        "ele": "1674",
+        "ele:bpv": "1669.79",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Zadná kopa",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2630293638,
+      "lat": 49.2550006,
+      "lon": 20.2202567,
+      "tags": {
+        "ele": "1411",
+        "ele:bpv": "1412.35",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Žľabina",
+        "name:pl": "Żlebina",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2689947888,
+      "lat": 49.1611124,
+      "lon": 20.1140589,
+      "tags": {
+        "ele": "2140",
+        "ele:bpv": "2475.53",
+        "import_ref": "kapor_names",
+        "name": "Štôlska veža",
+        "name:pl": "Stwolska Turnia",
+        "natural": "peak",
+        "source": "kapor2",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9347522",
+        "wikipedia": "pl:Stwolska Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2689963584,
+      "lat": 49.1686883,
+      "lon": 20.1460049,
+      "tags": {
+        "ele": "2121",
+        "ele:bpv": "2123.72",
+        "import_ref": "kapor_names",
+        "name": "Guľatý kopec",
+        "name:hu": "Kerek-domb",
+        "name:pl": "Sucha Kopa Wielicka",
+        "natural": "peak",
+        "source": "kapor2",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2689963626,
+      "lat": 49.1557615,
+      "lon": 20.1770866,
+      "tags": {
+        "ele": "1848",
+        "ele:bpv": "1848.43",
+        "import_ref": "kapor_names",
+        "name": "Senná kopa",
+        "name:hu": "Szénaboglya",
+        "name:pl": "Sienna Kopa",
+        "natural": "peak",
+        "source": "kapor2",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9336594",
+        "wikipedia": "cs:Senná kopa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2910369166,
+      "lat": 49.1980554,
+      "lon": 19.7103471,
+      "tags": {
+        "ele": "2178",
+        "ele:bpv": "2178.13",
+        "name": "Baníkov",
+        "name:pl": "Banówka",
+        "natural": "peak",
+        "prominence": "261",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q4176068",
+        "wikipedia": "sk:Baníkov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2910369167,
+      "lat": 49.1940143,
+      "lon": 19.7104713,
+      "tags": {
+        "ele": "2142",
+        "ele:bpv": "2142.26",
+        "name": "Príslop",
+        "name:pl": "Jałowiecki Przysłop",
+        "natural": "peak",
+        "source": "survey, GPS,",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11723603",
+        "wikipedia": "pl:Jałowiecki Przysłop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3262166361,
+      "lat": 49.1636557,
+      "lon": 20.1350113,
+      "tags": {
+        "alt_name:de": "Gerlachturm",
+        "ele": "2642",
+        "name": "Gerlachovská veža",
+        "name:de": "Mittlere Gerlsdorfer Spitze",
+        "name:hu": "Középső-Gerlachfalvi-csúcs",
+        "name:pl": "Pośredni Gerlach",
+        "natural": "peak",
+        "source": "wikipedia",
+        "wikidata": "Q766813",
+        "wikipedia": "sk:Gerlachovská veža"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3264150961,
+      "lat": 49.1965172,
+      "lon": 19.7408958,
+      "tags": {
+        "ele": "2051",
+        "ele:bpv": "2049.69",
+        "name": "Nohavica",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3264150962,
+      "lat": 49.2336902,
+      "lon": 19.697014,
+      "tags": {
+        "ele": "1624",
+        "ele:bpv": "1634.30",
+        "name": "Predný Salatín",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3264150963,
+      "lat": 49.2136376,
+      "lon": 19.6861653,
+      "tags": {
+        "ele": "2048",
+        "ele:bpv": "2047.83",
+        "name": "Salatín",
+        "name:pl": "Salatyński Wierch",
+        "natural": "peak",
+        "prominence": "163",
+        "source": "survey, GPS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q2855194",
+        "wikipedia": "sk:Salatín (Roháče)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3264150964,
+      "lat": 49.2075781,
+      "lon": 19.7070058,
+      "tags": {
+        "ele": "2083",
+        "ele:bpv": "2081.76",
+        "name": "Spálená",
+        "name:pl": "Spalona Kopa",
+        "natural": "peak",
+        "source": "GPS, survey",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9340023",
+        "wikipedia": "sk:Spálená (vrch v Západných Tatrách)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3343362920,
+      "lat": 49.2194211,
+      "lon": 20.0093063,
+      "tags": {
+        "alt_name:de": "Sauberg;Schweinkopf",
+        "alt_name:hu": "Kocahegy",
+        "ele": "2301",
+        "ele:bpv": "2301.56",
+        "name": "Svinica / Świnica",
+        "name:de": "Seealmspitze",
+        "name:hu": "Svinica",
+        "name:pl": "Świnica",
+        "name:sk": "Svinica",
+        "natural": "peak",
+        "prominence": "351",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q2741323",
+        "wikipedia": "pl:Świnica"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3504631174,
+      "lat": 49.2222837,
+      "lon": 20.0012354,
+      "tags": {
+        "ele": "2128",
+        "name": "Prostredná kopa / Pośrednia Turnia",
+        "name:de": "Mittlerer Turm",
+        "name:hu": "Középső-torony",
+        "name:pl": "Pośrednia Turnia",
+        "name:sk": "Prostredná kopa",
+        "natural": "peak",
+        "source": "geoportal.gov.pl:ortofoto",
+        "wikidata": "Q11826408",
+        "wikipedia": "pl:Pośrednia Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3508355562,
+      "lat": 49.1895857,
+      "lon": 20.0485622,
+      "tags": {
+        "alt_name:sk": "Smrečinská veža",
+        "ele": "2142",
+        "name": "Ciemnosmreczyńska Turnia",
+        "name:pl": "Ciemnosmreczyńska Turnia",
+        "name:sk": "Temnosmrečinská veža",
+        "natural": "peak",
+        "source": "geoportal.gov.pl:ortofoto",
+        "wikidata": "Q9192478",
+        "wikipedia": "pl:Ciemnosmreczyńska Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3509905952,
+      "lat": 49.1794211,
+      "lon": 20.0740814,
+      "tags": {
+        "ele": "2365",
+        "ele:bpv": "2373.41",
+        "name": "Rogata Turniczka / Rohatá vežička",
+        "name:pl": "Rogata Turniczka",
+        "name:sk": "Rohatá vežička",
+        "natural": "peak",
+        "source": "geoportal.gov.pl:ortofoto",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3509932447,
+      "lat": 49.1809457,
+      "lon": 20.0690274,
+      "tags": {
+        "alt_name:de": "Fischerturm",
+        "alt_name:hu": "Fischer-torony",
+        "ele": "2372",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Hincova veža / Hińczowa Turnia",
+        "name:de": "Hinzenseeturm",
+        "name:hu": "Hincó-tavi-torony",
+        "name:pl": "Hińczowa Turnia",
+        "name:sk": "Hincova veža",
+        "natural": "peak",
+        "source:name": "skgeodesy.sk",
+        "wikidata": "Q9293124",
+        "wikipedia": "pl:Hińczowa Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3509945912,
+      "lat": 49.1807777,
+      "lon": 20.0691123,
+      "tags": {
+        "ele": "2360",
+        "name": "Hińczowa Turniczka / Hincova vežička",
+        "name:de": "Hinzenseetürmchen",
+        "name:hu": "Hincó-tavi-tornyocska",
+        "name:pl": "Hińczowa Turniczka",
+        "name:sk": "Hincova vežička",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3509947614,
+      "lat": 49.1835393,
+      "lon": 20.0657533,
+      "tags": {
+        "ele": "2340",
+        "name": "Chłopek",
+        "name:hu": "Parasztocska",
+        "name:pl": "Chłopek",
+        "name:sk": "Chlapík",
+        "natural": "peak",
+        "source": "geoportal.gov.pl:ortofoto",
+        "wikidata": "Q9192151",
+        "wikipedia": "pl:Chłopek (Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3558286971,
+      "lat": 49.2299996,
+      "lon": 19.9712949,
+      "tags": {
+        "ele": "1836",
+        "natural": "peak",
+        "source": "geoportal.gov.pl:ortofoto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3558335540,
+      "lat": 49.2323368,
+      "lon": 19.9514875,
+      "tags": {
+        "ele": "1799",
+        "name": "Suche Czuby",
+        "natural": "peak",
+        "source": "geoportal.gov.pl:ortofoto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3558342128,
+      "lat": 49.2332172,
+      "lon": 19.9473678,
+      "tags": {
+        "ele": "1811",
+        "natural": "peak",
+        "source": "geoportal.gov.pl:ortofoto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3560769900,
+      "lat": 49.2041744,
+      "lon": 19.8839454,
+      "tags": {
+        "ele": "2068",
+        "ele:bpv": "2069.71",
+        "name": "Smreczyński Wierch Wyższy",
+        "natural": "peak",
+        "source": "geoportal.gov.pl:ortofoto",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3560808077,
+      "lat": 49.2120143,
+      "lon": 19.8967431,
+      "tags": {
+        "ele": "1892",
+        "name": "Tomanowa Kopa",
+        "name:pl": "Tomanowa Kopa",
+        "natural": "peak",
+        "source": "geoportal.gov.pl:ortofoto",
+        "wikidata": "Q11837029",
+        "wikipedia": "pl:Tomanowa Kopa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3560920780,
+      "lat": 49.1974727,
+      "lon": 19.7951037,
+      "tags": {
+        "ele": "2137",
+        "ele:bpv": "2136.93",
+        "name": "Jarząbczy Wierch / Hrubý vrch",
+        "name:hu": "Vastag-hegy",
+        "name:pl": "Jarząbczy Wierch",
+        "name:sk": "Hrubý vrch",
+        "natural": "peak",
+        "source": "geoportal.gov.pl:ortofoto",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11134872",
+        "wikipedia": "sk:Hrubý vrch (Západné Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3560955247,
+      "lat": 49.2307068,
+      "lon": 19.7691551,
+      "tags": {
+        "ele": "1632",
+        "name": "Długi Upłaz",
+        "name:pl": "Długi Upłaz",
+        "name:sk": "Dlhý úplaz",
+        "natural": "peak",
+        "source": "geoportal.gov.pl:ortofoto",
+        "wikidata": "Q11695878",
+        "wikipedia": "pl:Długi Upłaz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3560988994,
+      "lat": 49.2556794,
+      "lon": 19.7904947,
+      "tags": {
+        "ele": "1486",
+        "name": "Parzątczak",
+        "natural": "peak",
+        "source": "geoportal.gov.pl:ortofoto",
+        "wikidata": "Q11813159",
+        "wikipedia": "pl:Parzątczak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3560989957,
+      "lat": 49.2687434,
+      "lon": 19.7937639,
+      "tags": {
+        "name": "Zamczysko",
+        "natural": "peak",
+        "source": "geoportal.gov.pl:ortofoto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3560991693,
+      "lat": 49.2616215,
+      "lon": 19.7887314,
+      "tags": {
+        "ele": "1491",
+        "ele:bpv": "1490.61",
+        "name": "Furkaska / Veľká Furkaska",
+        "name:pl": "Furkaska",
+        "name:sk": "Veľká Furkaska",
+        "natural": "peak",
+        "source": "geoportal.gov.pl:ortofoto",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9264716",
+        "wikipedia": "pl:Furkaska"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3643035819,
+      "lat": 49.1639301,
+      "lon": 20.1912323,
+      "tags": {
+        "alt_name": "Kráľovský nos",
+        "ele": "2273",
+        "name": "Nos",
+        "name:hu": "Királyorr",
+        "name:pl": "Królewski Nos",
+        "natural": "peak",
+        "source:name": "skgeodesy.sk,P-42/1988",
+        "wikidata": "Q11750157",
+        "wikipedia": "pl:Królewski Nos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3643035820,
+      "lat": 49.173491,
+      "lon": 20.0191918,
+      "tags": {
+        "ele": "2355",
+        "ele:bpv": "2374.86",
+        "name": "Terianska veža",
+        "name:hu": "Terianszko-torony",
+        "name:pl": "Wielka Teriańska Turnia",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9372868",
+        "wikipedia": "pl:Wielka Teriańska Turnia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3674119873,
+      "lat": 49.1698273,
+      "lon": 19.8345478,
+      "tags": {
+        "ele": "2043",
+        "ele:bpv": "2043.17",
+        "name": "Ježová",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11727126",
+        "wikipedia": "cs:Ježová (Západní Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3731717709,
+      "lat": 49.1634686,
+      "lon": 20.1583321,
+      "tags": {
+        "name": "Velický zub",
+        "natural": "peak",
+        "source": "mapbox"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3982162347,
+      "lat": 49.2379029,
+      "lon": 20.1170912,
+      "tags": {
+        "ele": "1628",
+        "ele:bpv": "1628.74",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Holica",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q31555504"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3982162461,
+      "lat": 49.2489912,
+      "lon": 20.1081208,
+      "tags": {
+        "ele": "1372",
+        "ele:bpv": "1381.48",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Tisovka",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015271212,
+      "lat": 49.2739202,
+      "lon": 19.7651392,
+      "tags": {
+        "ele": "1086",
+        "ele:bpv": "1085.70",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Ježov vrch",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015271217,
+      "lat": 49.2338873,
+      "lon": 19.6172649,
+      "tags": {
+        "ele": "1127",
+        "ele:bpv": "1125.89",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Kamenné mlieko",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015272013,
+      "lat": 49.2226725,
+      "lon": 19.6821072,
+      "tags": {
+        "alt_name": "Teľačiarky",
+        "ele": "1934",
+        "ele:bpv": "1932.34",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Brestová",
+        "name:pl": "Brestowa",
+        "natural": "peak",
+        "source": "survey, GPS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "wikipedia": "pl:Brestowa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015272080,
+      "lat": 49.2177257,
+      "lon": 19.7030805,
+      "tags": {
+        "ele": "1768",
+        "ele:bpv": "1773.63",
+        "import_ref": "Záväzné názvoslovie vrchov",
+        "name": "Zadný Salatín",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4330069865,
+      "lat": 49.2111302,
+      "lon": 19.642154,
+      "tags": {
+        "ele": "1805",
+        "ele:bpv": "1804.87",
+        "name": "Sivý vrch",
+        "name:pl": "Siwy Wierch",
+        "natural": "peak",
+        "prominence": "232",
+        "source": "survey, GPS,",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3509435",
+        "wikipedia": "sk:Sivý vrch (Západné Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4366169405,
+      "lat": 49.1795862,
+      "lon": 20.0880476,
+      "tags": {
+        "description": "Najwyższy szczyt w Polsce",
+        "ele": "2499",
+        "importance": "national",
+        "name": "Rysy",
+        "name:de": "Meeraugspitze",
+        "name:hu": "Tengerszem-csúcs",
+        "name:sk": "Rysy",
+        "natural": "peak",
+        "wikidata": "Q672936",
+        "wikipedia": "pl:Rysy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4695831254,
+      "lat": 49.1872158,
+      "lon": 20.1959924,
+      "tags": {
+        "ele": "2182",
+        "ele:bpv": "2181.35",
+        "name": "Žltá stena",
+        "name:hu": "Sárga-fal",
+        "name:pl": "Żółta Ściana",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9397945"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4861787857,
+      "lat": 49.219017,
+      "lon": 20.1248368,
+      "tags": {
+        "ele": "1902",
+        "ele:bpv": "1902.04",
+        "name": "Horvátov vrch",
+        "name:hu": "Horváth-kúp",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4961328406,
+      "lat": 49.2247441,
+      "lon": 20.2931396,
+      "tags": {
+        "ele": "1489",
+        "name": "Faixová skala",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4961688953,
+      "lat": 49.2333044,
+      "lon": 20.248995,
+      "tags": {
+        "ele": "1984",
+        "ele:bpv": "1990.69",
+        "name": "Prostredné Jatky",
+        "name:pl": "Pośrednie Jatki",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4961688954,
+      "lat": 49.2309281,
+      "lon": 20.2517983,
+      "tags": {
+        "ele": "2012",
+        "ele:bpv": "2005.74",
+        "name": "Predné Jatky",
+        "name:hu": "Elülső-Mészárszék",
+        "name:pl": "Skrajne Jatki",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9338162"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4992815334,
+      "lat": 49.1566552,
+      "lon": 19.9792814,
+      "tags": {
+        "ele": "1775",
+        "name": "Nižná priehyba",
+        "name:hu": "Alsó-Kriván-váll",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4992815367,
+      "lat": 49.1583524,
+      "lon": 19.9868935,
+      "tags": {
+        "ele": "1982",
+        "ele:bpv": "1993.58",
+        "name": "Vyšná priehyba",
+        "name:hu": "Felső-Kriván-váll",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4992836781,
+      "lat": 49.15207,
+      "lon": 19.981466,
+      "tags": {
+        "ele": "1767",
+        "ele:bpv": "1771.38",
+        "loc_name": "Krivánska kopa",
+        "name": "Kopa",
+        "name:hu": "Kriván-domb",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "skgeodesy.sk",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4999130114,
+      "lat": 49.1519451,
+      "lon": 19.9713268,
+      "tags": {
+        "ele": "1660",
+        "ele:bpv": "1575.91",
+        "name": "Grúnik",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5131055060,
+      "lat": 49.1631527,
+      "lon": 20.0528304,
+      "tags": {
+        "ele": "2422",
+        "fixme": "position, south and north peaks of Satan",
+        "name": "Satan",
+        "name:hu": "Sátán",
+        "natural": "peak",
+        "prominence": "172",
+        "source": "gps",
+        "source:ele": "skgeodesy.sk",
+        "source:name": "skgeodesy.sk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5144401187,
+      "lat": 49.2001456,
+      "lon": 19.7263757,
+      "tags": {
+        "ele": "2133",
+        "ele:bpv": "2133.35",
+        "name": "Tri kopy",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5144401188,
+      "lat": 49.199925,
+      "lon": 19.7289561,
+      "tags": {
+        "ele": "2136",
+        "ele:bpv": "2135.88",
+        "name": "Tri kopy",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5144401189,
+      "lat": 49.199925,
+      "lon": 19.7289561,
+      "tags": {
+        "ele": "2130",
+        "ele:bpv": "2135.88",
+        "name": "Tri kopy",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9362324",
+        "wikipedia": "sk:Tri kopy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5209919435,
+      "lat": 49.2262469,
+      "lon": 19.9390251,
+      "tags": {
+        "ele": "1657",
+        "ele:bpv": "1663.02",
+        "name": "Štrky",
+        "name:pl": "Jaworowe Skałki",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikipedia": "pl:Jaworowe Skałki"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5239378037,
+      "lat": 49.2264245,
+      "lon": 19.6730618,
+      "tags": {
+        "ele": "1806",
+        "name": "Zuberec",
+        "name:pl": "Zuberski Wierch",
+        "name:sk": "Zuberec",
+        "natural": "peak",
+        "source": "survey, GPS",
+        "wikipedia": "pl:Zuberski Wierch"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5239453831,
+      "lat": 49.2262973,
+      "lon": 19.6665079,
+      "tags": {
+        "ele": "1753",
+        "ele:bpv": "1747.39",
+        "name": "Pálenica",
+        "name:pl": "Zuberski Wierch",
+        "natural": "peak",
+        "source": "survey, GPS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikipedia": "pl:Zuberski Wierch"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5260561411,
+      "lat": 49.2304293,
+      "lon": 19.940012,
+      "tags": {
+        "alt_name": "Javorové bralo",
+        "ele": "1791",
+        "name": "Javorová kopa",
+        "name:pl": "Jaworowa Kopa",
+        "natural": "peak",
+        "wikipedia": "pl:Jaworowa Kopa (Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5260733817,
+      "lat": 49.2274044,
+      "lon": 19.9159502,
+      "tags": {
+        "ele": "1970",
+        "ele:bpv": "1986.93",
+        "name": "Rozpadlá kopa",
+        "name:pl": "Rozpadła Kopa",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikipedia": "pl:Rozpadła Kopa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5264191610,
+      "lat": 49.1908765,
+      "lon": 20.1913261,
+      "tags": {
+        "ele": "2121",
+        "name": "Pfinnova kopa",
+        "name:pl": "Pięciostawiańska Kopa",
+        "natural": "peak",
+        "wikidata": "Q11818832",
+        "wikipedia": "sk:Pfinnova kopa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5264314855,
+      "lat": 49.1616247,
+      "lon": 20.1242864,
+      "tags": {
+        "ele": "2262",
+        "ele:bpv": "2260.83",
+        "name": "Kostolík",
+        "name:hu": "Kápolna",
+        "name:pl": "Kościołek",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3890181",
+        "wikipedia": "sk:Kostolík"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5264678313,
+      "lat": 49.2445003,
+      "lon": 20.1874316,
+      "tags": {
+        "ele": "1540",
+        "name": "Štefan",
+        "name:pl": "Stefanowy Wierch",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5266496787,
+      "lat": 49.1815233,
+      "lon": 19.9608864,
+      "tags": {
+        "ele": "2039",
+        "ele:bpv": "2039.16",
+        "name": "Krížna",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11750041",
+        "wikipedia": "cs:Krížna (Západní Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5266496805,
+      "lat": 49.211741,
+      "lon": 19.9685943,
+      "tags": {
+        "ele:bpv": "1901.69",
+        "name": "Magura",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q31568504"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5278904260,
+      "lat": 49.2071962,
+      "lon": 19.9098873,
+      "tags": {
+        "ele": "1804",
+        "name": "Kňazová",
+        "name:pl": "Kniaziowa Kopa",
+        "natural": "peak",
+        "wikipedia": "pl:Kniaziowa Kopa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5320314675,
+      "lat": 49.2219852,
+      "lon": 19.7477183,
+      "tags": {
+        "ele": "1690",
+        "ele:bpv": "1694.09",
+        "name": "Zadná Zábrať",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5320319930,
+      "lat": 49.1911877,
+      "lon": 19.903705,
+      "tags": {
+        "ele": "1494",
+        "ele:bpv": "1500.89",
+        "name": "Grešová",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5364017519,
+      "lat": 49.1800119,
+      "lon": 19.6941399,
+      "tags": {
+        "ele": "1950",
+        "ele:bpv": "1950.90",
+        "fixme": "approx location",
+        "name": "Ráztoka",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q31559822"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5378545379,
+      "lat": 49.1851005,
+      "lon": 19.6983617,
+      "tags": {
+        "ele": "1938",
+        "ele:bpv": "1937.89",
+        "name": "Jalovecká kopa",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5378764291,
+      "lat": 49.1554887,
+      "lon": 19.7323229,
+      "tags": {
+        "ele": "1750",
+        "ele:bpv": "1723.58",
+        "name": "Holý vrch",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5378764292,
+      "lat": 49.16313,
+      "lon": 19.7347124,
+      "tags": {
+        "ele:bpv": "1881.10",
+        "name": "Kečka",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5378764295,
+      "lat": 49.1715258,
+      "lon": 19.7468694,
+      "tags": {
+        "ele": "2144",
+        "ele:bpv": "2145.62",
+        "name": "Štrbavý",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9351103",
+        "wikipedia": "sk:Štrbavý"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5378764554,
+      "lat": 49.1937819,
+      "lon": 19.7677126,
+      "tags": {
+        "ele": "1670",
+        "ele:bpv": "1661.69",
+        "name": "Kôpka",
+        "name:pl": "Czarna Kopa",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5378764558,
+      "lat": 49.1582984,
+      "lon": 19.7568536,
+      "tags": {
+        "ele": "1945",
+        "ele:bpv": "1948.00",
+        "name": "Mládky",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11772525",
+        "wikipedia": "cs:Mládky"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5379980759,
+      "lat": 49.1621865,
+      "lon": 19.7023311,
+      "tags": {
+        "ele": "1530",
+        "ele:bpv": "1535.63",
+        "name": "Solisko",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5379980760,
+      "lat": 49.1687977,
+      "lon": 19.6563864,
+      "tags": {
+        "ele": "1032",
+        "name": "Skala",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5379980761,
+      "lat": 49.1813239,
+      "lon": 19.6731602,
+      "tags": {
+        "ele": "1680",
+        "ele:bpv": "1683.62",
+        "name": "Trnác",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5379980762,
+      "lat": 49.2043807,
+      "lon": 19.672261,
+      "tags": {
+        "ele": "1830",
+        "ele:bpv": "1831.74",
+        "name": "Lysec",
+        "name:pl": "Wielki Łysiec",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikipedia": "pl:Wielki Łysiec"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5379980763,
+      "lat": 49.1980435,
+      "lon": 19.6671373,
+      "tags": {
+        "alt_name": "Malý Lysec",
+        "ele:bpv": "1697.44",
+        "name": "Jalovská hora",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5390047766,
+      "lat": 49.1989384,
+      "lon": 19.7150007,
+      "tags": {
+        "name": "Baníkovská ihla",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5390809927,
+      "lat": 49.1593338,
+      "lon": 19.6919954,
+      "tags": {
+        "ele": "1390",
+        "name": "Nižná Roveň",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5390809928,
+      "lat": 49.1724181,
+      "lon": 19.6913677,
+      "tags": {
+        "ele": "1690",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5390809929,
+      "lat": 49.1765624,
+      "lon": 19.6946034,
+      "tags": {
+        "ele": "1890",
+        "ele:bpv": "1896.92",
+        "name": "Široká",
+        "name:pl": "Szeroka",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5390818714,
+      "lat": 49.1652575,
+      "lon": 19.6604811,
+      "tags": {
+        "ele": "1099",
+        "ele:bpv": "1100.45",
+        "name": "Zámčisko",
+        "name:pl": "Zamczysko (Zajęczyniec)",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5391017685,
+      "lat": 49.1711076,
+      "lon": 20.0596544,
+      "tags": {
+        "ele": "2000",
+        "ele:bpv": "1988.98",
+        "name": "Hincova kopka",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5397007407,
+      "lat": 49.2484673,
+      "lon": 20.1976929,
+      "tags": {
+        "ele": "2152",
+        "ele:bpv": "2151.71",
+        "name": "Havran",
+        "name:de": "Rabenstein",
+        "name:hu": "Holló-kő",
+        "name:pl": "Hawrań",
+        "natural": "peak",
+        "prominence": "402",
+        "source": "wikipedia",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q2067998",
+        "wikipedia": "sk:Havran (vrch v Tatrách)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5417922755,
+      "lat": 49.2112963,
+      "lon": 20.2671352,
+      "tags": {
+        "ele": "1473",
+        "ele:bpv": "1472.36",
+        "name": "Rinias",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5417922756,
+      "lat": 49.2078096,
+      "lon": 20.2763479,
+      "tags": {
+        "ele": "1530",
+        "ele:bpv": "1529.59",
+        "name": "Stežky",
+        "name:hu": "Farcsík",
+        "natural": "peak",
+        "prominence": "140",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q31552748"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5419857113,
+      "lat": 49.2233142,
+      "lon": 20.17586,
+      "tags": {
+        "ele": "1784",
+        "ele:bpv": "1783.70",
+        "name": "Úplaz",
+        "name:hu": "Pázsitos",
+        "name:pl": "Czarnogórski Upłaz",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5419857114,
+      "lat": 49.2175451,
+      "lon": 20.1821031,
+      "tags": {
+        "ele": "2022",
+        "ele:bpv": "2024.63",
+        "name": "Kopa brán",
+        "name:hu": "Kapu-bérc",
+        "name:pl": "Bździochowa Kopa",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q31568230"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5419990483,
+      "lat": 49.2209152,
+      "lon": 20.1476271,
+      "tags": {
+        "ele:bpv": "1905.21",
+        "name": "Košiar",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "ZBGIS",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5419990485,
+      "lat": 49.2527688,
+      "lon": 20.1267294,
+      "tags": {
+        "ele:bpv": "1437.81",
+        "name": "Skalka",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5420015644,
+      "lat": 49.2643311,
+      "lon": 20.1616535,
+      "tags": {
+        "ele": "1240",
+        "ele:bpv": "1282.85",
+        "name": "Kýčera",
+        "name:pl": "Kiczora",
+        "natural": "peak",
+        "prominence": "158",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5420112279,
+      "lat": 49.2612079,
+      "lon": 20.2029483,
+      "tags": {
+        "ele": "1505",
+        "ele:bpv": "1510.02",
+        "name": "Javorinka",
+        "name:pl": "Stara Jaworzynka",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5420148436,
+      "lat": 49.2449681,
+      "lon": 20.2434426,
+      "tags": {
+        "ele": "1626",
+        "ele:bpv": "1627.90",
+        "name": "Gáflovka",
+        "name:hu": "Gáflovka",
+        "name:pl": "Turnia nad Jaworzynką",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "ZBGIS",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5420148437,
+      "lat": 49.2532688,
+      "lon": 20.2323199,
+      "tags": {
+        "ele": "1274",
+        "ele:bpv": "1277.72",
+        "name": "Veľký Grúň",
+        "name:pl": "Groń",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5420170795,
+      "lat": 49.2586469,
+      "lon": 20.2741876,
+      "tags": {
+        "ele": "1219",
+        "ele:bpv": "1219.27",
+        "name": "Tokáreň",
+        "name:pl": "Tokarnia",
+        "natural": "peak",
+        "prominence": "174",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "ZBGIS",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5421146301,
+      "lat": 49.2454551,
+      "lon": 20.2990939,
+      "tags": {
+        "ele:bpv": "1053.88",
+        "name": "Čierny vrch",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "ZBGIS",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5427341198,
+      "lat": 49.250286,
+      "lon": 19.6960826,
+      "tags": {
+        "ele:bpv": "1075.62",
+        "name": "Kopa",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5427476629,
+      "lat": 49.2366931,
+      "lon": 19.6434272,
+      "tags": {
+        "ele": "1216",
+        "ele:bpv": "1218.14",
+        "name": "Ostrý grúň",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5427476769,
+      "lat": 49.2241501,
+      "lon": 19.6467357,
+      "tags": {
+        "ele": "1462",
+        "ele:bpv": "1465.23",
+        "name": "Kozinec",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5427476770,
+      "lat": 49.2296879,
+      "lon": 19.6538919,
+      "tags": {
+        "ele": "1426",
+        "name": "Malý Klin",
+        "natural": "peak",
+        "source:name": "ZBGIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5427476941,
+      "lat": 49.2345301,
+      "lon": 19.7256226,
+      "tags": {
+        "ele": "1387",
+        "ele:bpv": "1389.19",
+        "name": "Lysec",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5427567944,
+      "lat": 49.2710666,
+      "lon": 19.7320584,
+      "tags": {
+        "ele": "1215",
+        "ele:bpv": "1234.99",
+        "name": "Mihulčie",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "ZBGIS",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5427567970,
+      "lat": 49.2553132,
+      "lon": 19.7635255,
+      "tags": {
+        "ele": "1329",
+        "ele:bpv": "1329.29",
+        "name": "Hrubý vrch",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5427664141,
+      "lat": 49.269653,
+      "lon": 19.7061319,
+      "tags": {
+        "ele": "1272",
+        "ele:bpv": "1269.66",
+        "name": "Kremenná",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "ZBGIS",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5568304734,
+      "lat": 49.181493,
+      "lon": 20.1028776,
+      "tags": {
+        "name": "Predná Pustá veža",
+        "name:pl": "Skrajna Pusta Turnia",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5568304735,
+      "lat": 49.1808899,
+      "lon": 20.1088107,
+      "tags": {
+        "ele": "1875",
+        "name": "Pustá stráž",
+        "name:pl": "Gankowa Strażnica",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5568304786,
+      "lat": 49.170152,
+      "lon": 20.0834888,
+      "tags": {
+        "ele": "2354",
+        "ele:bpv": "2343.32",
+        "name": "Veľká Kôpka",
+        "name:pl": "Wielka Kopa Popradzka",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9372802",
+        "wikipedia": "pl:Wielka Kopa Popradzka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5568304787,
+      "lat": 49.1701305,
+      "lon": 20.0835389,
+      "tags": {
+        "name": "Dračie pazúry",
+        "name:pl": "Smocza Grań",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5568348325,
+      "lat": 49.1450923,
+      "lon": 20.084939,
+      "tags": {
+        "name": "Predná Ostrva",
+        "name:hu": "Elülső-Oszterva",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5568348326,
+      "lat": 49.1486933,
+      "lon": 20.0857527,
+      "tags": {
+        "ele:bpv": "1927.02",
+        "name": "Zadná Ostrva",
+        "name:hu": "Hátsó-Oszterva",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5568348327,
+      "lat": 49.1523241,
+      "lon": 20.097996,
+      "tags": {
+        "ele": "2179",
+        "name": "Tupý hrb",
+        "name:hu": "Tompa-púp",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5568348332,
+      "lat": 49.1486147,
+      "lon": 20.1037795,
+      "tags": {
+        "ele": "2183",
+        "ele:bpv": "2188.25",
+        "name": "Klin",
+        "name:hu": "Ék-hegy",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q31568377"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5568348340,
+      "lat": 49.1659777,
+      "lon": 20.1202341,
+      "tags": {
+        "ele": "2401",
+        "name": "Kačací štít",
+        "name:hu": "Kacsa-völgyi-csúcs",
+        "name:pl": "Kaczy Szcyt",
+        "natural": "peak",
+        "wikidata": "Q11733230",
+        "wikipedia": "sk:Kačací štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5568348341,
+      "lat": 49.1711406,
+      "lon": 20.1161063,
+      "tags": {
+        "name": "Kačací mních",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5568348343,
+      "lat": 49.1666161,
+      "lon": 20.1079738,
+      "tags": {
+        "name": "Kozia stráž",
+        "name:pl": "Kozia Strażnica",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5568416470,
+      "lat": 49.1717731,
+      "lon": 20.0487476,
+      "tags": {
+        "ele": "2250",
+        "name": "Kôprovská veža",
+        "name:hu": "Kapor-torony",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5568416480,
+      "lat": 49.1864332,
+      "lon": 20.0532745,
+      "tags": {
+        "ele": "2310",
+        "name": "Čubrinka",
+        "name:hu": "Csubrina-torony",
+        "natural": "peak",
+        "wikidata": "Q9196975"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5568416510,
+      "lat": 49.1773757,
+      "lon": 20.0777355,
+      "tags": {
+        "name": "Tylkova veža",
+        "natural": "peak",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5579759886,
+      "lat": 49.1862931,
+      "lon": 19.5940145,
+      "tags": {
+        "ele": "990",
+        "ele:bpv": "1005.24",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5579759902,
+      "lat": 49.1935633,
+      "lon": 19.6023726,
+      "tags": {
+        "ele:bpv": "1120.53",
+        "name": "Huňová",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5579759903,
+      "lat": 49.2038189,
+      "lon": 19.6184549,
+      "tags": {
+        "ele": "1477",
+        "ele:bpv": "1477.15",
+        "name": "Suchý vrch",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:name": "ZBGIS",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9347855",
+        "wikipedia": "cs:Suchý vrch (Západní Tatry, 1477 m)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5614913066,
+      "lat": 49.1468784,
+      "lon": 20.1402354,
+      "tags": {
+        "ele": "1792",
+        "name": "Suchý vrch",
+        "name:hu": "Száraz-hegy",
+        "name:pl": "Suchy Wierch Batyżowiecki",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657427548,
+      "lat": 49.2256655,
+      "lon": 20.1955633,
+      "tags": {
+        "ele": "2011",
+        "name": "Jahnence",
+        "name:pl": "Skoruszowa Kopa",
+        "natural": "peak",
+        "source": "ZBGIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657427816,
+      "lat": 49.2019974,
+      "lon": 20.2174429,
+      "tags": {
+        "ele": "2265",
+        "name": "Ušatá veža",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "wikidata": "Q9393362",
+        "wikipedia": "sk:Ušatá veža"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657427823,
+      "lat": 49.2075183,
+      "lon": 20.1831025,
+      "tags": {
+        "name": "Malá Snehová veža",
+        "name:hu": "Kis-Feketetavi-torony",
+        "name:pl": "Mała Śnieżna Turnia",
+        "natural": "peak",
+        "source": "ZBGIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657427833,
+      "lat": 49.137878,
+      "lon": 19.8422481,
+      "tags": {
+        "ele:bpv": "1203.77",
+        "name": "Suchý hrádok",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q31558611"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657427864,
+      "lat": 49.2005742,
+      "lon": 20.1409214,
+      "tags": {
+        "ele:bpv": "2173.89",
+        "name": "Žabí Javorový vrch",
+        "name:pl": "Żabi Wierch Jaworowy",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657427865,
+      "lat": 49.2494036,
+      "lon": 20.1488161,
+      "tags": {
+        "ele:bpv": "1390.10",
+        "name": "Holý vrch",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657427869,
+      "lat": 49.187322,
+      "lon": 20.1887934,
+      "tags": {
+        "ele": "2355",
+        "ele:bpv": "2339.96",
+        "name": "Drobná veža",
+        "name:hu": "Dőri-csúcs",
+        "name:pl": "Drobna Turnia",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657427891,
+      "lat": 49.2320993,
+      "lon": 19.6645914,
+      "tags": {
+        "ele": "1553",
+        "name": "Veľký Klin",
+        "natural": "peak",
+        "source": "ZBGIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657428016,
+      "lat": 49.1928784,
+      "lon": 19.9369101,
+      "tags": {
+        "name": "Malá Brdárova grapa",
+        "natural": "peak",
+        "source": "ZBGIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657428292,
+      "lat": 49.1991165,
+      "lon": 20.2014494,
+      "tags": {
+        "ele": "2483",
+        "ele:bpv": "2481.86",
+        "name": "Spišský štít",
+        "name:hu": "Szepesi-csúcs",
+        "name:pl": "Spiska Grzęda",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q3493639",
+        "wikipedia": "sk:Spišský štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657428392,
+      "lat": 49.2260726,
+      "lon": 19.7346031,
+      "tags": {
+        "ele": "1577",
+        "ele:bpv": "1579.01",
+        "name": "Predná Zábrať",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657428573,
+      "lat": 49.1671074,
+      "lon": 19.7962432,
+      "tags": {
+        "ele:bpv": "1713.79",
+        "name": "Nižný Ostredok",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657428644,
+      "lat": 49.1819236,
+      "lon": 20.1990232,
+      "tags": {
+        "name": "Veľký Kostol",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "wikidata": "Q9372953"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657430153,
+      "lat": 49.1687967,
+      "lon": 20.0500201,
+      "tags": {
+        "name": "Capie veže",
+        "name:hu": "Zerge-tornyok",
+        "natural": "peak",
+        "source": "ZBGIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657430164,
+      "lat": 49.256946,
+      "lon": 20.2585435,
+      "tags": {
+        "ele:bpv": "1266.16",
+        "name": "Javorinka",
+        "name:pl": "Jaworzynka Bielska",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657430844,
+      "lat": 49.257534,
+      "lon": 20.1844957,
+      "tags": {
+        "name": "Nový vrch",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657431821,
+      "lat": 49.1899244,
+      "lon": 20.1281312,
+      "tags": {
+        "ele:bpv": "1876.63",
+        "name": "Veža nad kolibou",
+        "name:pl": "Turnia nad Kolebą",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657431904,
+      "lat": 49.1970361,
+      "lon": 19.6371361,
+      "tags": {
+        "ele": "1648",
+        "ele:bpv": "1652.84",
+        "name": "Veľká Kopa",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9372801"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657433050,
+      "lat": 49.258298,
+      "lon": 19.7481447,
+      "tags": {
+        "ele": "1386",
+        "name": "Kýčer",
+        "natural": "peak",
+        "source": "ZBGIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657433051,
+      "lat": 49.239031,
+      "lon": 19.75631,
+      "tags": {
+        "ele": "1573",
+        "ele:bpv": "1573.32",
+        "name": "Roh",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657433119,
+      "lat": 49.2137884,
+      "lon": 20.1200609,
+      "tags": {
+        "ele:bpv": "1873.36",
+        "name": "Nižné Zámky",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657434465,
+      "lat": 49.1477024,
+      "lon": 19.8095519,
+      "tags": {
+        "ele:bpv": "1489.54",
+        "name": "Kečka",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657434469,
+      "lat": 49.212517,
+      "lon": 20.2024805,
+      "tags": {
+        "ele:bpv": "2290.36",
+        "name": "Belasá veža",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657434476,
+      "lat": 49.163865,
+      "lon": 20.1145696,
+      "tags": {
+        "ele": "2395",
+        "name": "Drúk",
+        "name:pl": "Drąg",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9212652",
+        "wikipedia": "pl:Drąg (Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657434508,
+      "lat": 49.1880258,
+      "lon": 20.1880317,
+      "tags": {
+        "ele:bpv": "2339.96",
+        "name": "Sokolia veža",
+        "name:hu": "Petrik-csúcs",
+        "name:pl": "Sokola Turnia",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657434833,
+      "lat": 49.1377373,
+      "lon": 20.1768043,
+      "tags": {
+        "name": "Veľký Krížny kopec",
+        "natural": "peak",
+        "source": "ZBGIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657434836,
+      "lat": 49.2281471,
+      "lon": 19.9640414,
+      "tags": {
+        "name": "Vráta",
+        "natural": "peak",
+        "source": "ZBGIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657435330,
+      "lat": 49.2657213,
+      "lon": 20.1890961,
+      "tags": {
+        "ele:bpv": "1362.83",
+        "name": "Čierny vrch",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657435331,
+      "lat": 49.1885079,
+      "lon": 20.1857476,
+      "tags": {
+        "name": "Priečna veža",
+        "name:hu": "Majunke-torony",
+        "name:pl": "Spąga",
+        "natural": "peak",
+        "source": "ZBGIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657435364,
+      "lat": 49.1929336,
+      "lon": 20.1100813,
+      "tags": {
+        "name": "Bielovodská veža",
+        "name:pl": "Nawiesista Turnia",
+        "natural": "peak",
+        "source": "ZBGIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657435365,
+      "lat": 49.193794,
+      "lon": 19.9701428,
+      "tags": {
+        "ele:bpv": "1983.43",
+        "name": "Zadný Holý vrch",
+        "name:hu": "Hátsó-Kopasz-hegy",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657435443,
+      "lat": 49.1643812,
+      "lon": 20.2094126,
+      "tags": {
+        "name": "Slavkovská vyhliadka",
+        "natural": "peak",
+        "source": "ZBGIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657435456,
+      "lat": 49.1935958,
+      "lon": 19.9386648,
+      "tags": {
+        "ele:bpv": "1822.42",
+        "name": "Krajný Holý vrch",
+        "natural": "peak",
+        "source": "ZBGIS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5985440541,
+      "lat": 49.1584252,
+      "lon": 19.9900854,
+      "tags": {
+        "ele": "2000",
+        "name": "Krivánsky Hrb",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5985688598,
+      "lat": 49.1615666,
+      "lon": 19.9903509,
+      "tags": {
+        "ele": "1904",
+        "name": "Krivánska vežička",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5985688687,
+      "lat": 49.1650046,
+      "lon": 19.989953,
+      "tags": {
+        "ele": "1892",
+        "name": "Štrbina nad Kotlinami",
+        "name:hu": "Katlanvölgyi-rés",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5985688694,
+      "lat": 49.161193,
+      "lon": 20.0124228,
+      "tags": {
+        "name": "Jamské veže",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6008115144,
+      "lat": 49.1964482,
+      "lon": 20.1825885,
+      "tags": {
+        "ele": "2602",
+        "ele:bpv": "2604.92",
+        "name": "Malý Ľadový štít",
+        "name:de": "Markasitturm",
+        "name:hu": "Markazit-torony",
+        "name:pl": "Lodowa Kopa",
+        "natural": "peak",
+        "source": "landsat;knowledge",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q722940",
+        "wikipedia": "sk:Malý Ľadový štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6396960729,
+      "lat": 49.2019583,
+      "lon": 19.7336177,
+      "tags": {
+        "ele": "2020",
+        "ele:bpv": "2039.71",
+        "name": "Zelenô",
+        "natural": "peak",
+        "source": "survey",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6422709537,
+      "lat": 49.1894056,
+      "lon": 20.1304615,
+      "tags": {
+        "ele": "1804",
+        "ele:bpv": "1899.23",
+        "name": "veža nad Poľanou",
+        "name:pl": "Turnia nad Polaną",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q31568344"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6714991536,
+      "lat": 49.1827631,
+      "lon": 20.1966101,
+      "tags": {
+        "ele:bpv": "2260.03",
+        "name": "Kopa Veľkého kostola",
+        "natural": "peak",
+        "source": "Ortofotomozaika SR",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6714991537,
+      "lat": 49.1821916,
+      "lon": 20.1986673,
+      "tags": {
+        "name": "Veža Veľkého kostola",
+        "natural": "peak",
+        "source": "Ortofotomozaika SR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6714991557,
+      "lat": 49.1826055,
+      "lon": 20.1989088,
+      "tags": {
+        "name": "Zvon",
+        "natural": "peak",
+        "source": "Ortofotomozaika SR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229948353,
+      "lat": 49.1617301,
+      "lon": 20.0324485,
+      "tags": {
+        "ele": "2400",
+        "name": "Prostredné Solisko",
+        "natural": "peak",
+        "wikidata": "Q11826419",
+        "wikipedia": "sk:Prostredné Solisko"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7230266157,
+      "lat": 49.1546077,
+      "lon": 20.0367016,
+      "tags": {
+        "ele": "2301",
+        "ele:bpv": "2152.13",
+        "name": "Mlynické Solisko",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11788170",
+        "wikipedia": "sk:Mlynické Solisko"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7230361943,
+      "lat": 49.1563834,
+      "lon": 20.0345082,
+      "tags": {
+        "ele": "2320",
+        "name": "Furkotské Solisko",
+        "natural": "peak",
+        "wikidata": "Q9264717",
+        "wikipedia": "sk:Furkotské Solisko"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7230426981,
+      "lat": 49.1709904,
+      "lon": 20.0962854,
+      "tags": {
+        "ele": "2523",
+        "name": "Dračí štít",
+        "natural": "peak",
+        "wikidata": "Q9338680",
+        "wikipedia": "sk:Dračí štít"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7230434663,
+      "lat": 49.1841848,
+      "lon": 19.8366224,
+      "tags": {
+        "ele": "2108",
+        "name": "Grúň",
+        "natural": "peak",
+        "wikidata": "Q11772036",
+        "wikipedia": "sk:Grúň (vrch v Západných Tatrách)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7230450789,
+      "lat": 49.2169659,
+      "lon": 19.6032726,
+      "tags": {
+        "ele": "1277",
+        "ele:bpv": "1279.63",
+        "name": "Javorina",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11723490",
+        "wikipedia": "cs:Javorina (Západní Tatry)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7230460249,
+      "lat": 49.204964,
+      "lon": 19.6423251,
+      "tags": {
+        "ele": "1703",
+        "ele:bpv": "1710.33",
+        "name": "Malá Ostrá",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q11772081",
+        "wikipedia": "sk:Malá Ostrá"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7230505970,
+      "lat": 49.1693618,
+      "lon": 20.0971789,
+      "tags": {
+        "ele": "2348",
+        "ele:bpv": "2124.22",
+        "name": "Ošarpance",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0",
+        "wikidata": "Q9350878",
+        "wikipedia": "sk:Ošarpance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7838897195,
+      "lat": 49.2126203,
+      "lon": 19.9055716,
+      "tags": {
+        "ele": "1950",
+        "natural": "peak",
+        "source": "survey, GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7842304878,
+      "lat": 49.1901621,
+      "lon": 19.7058316,
+      "tags": {
+        "ele": "2020",
+        "natural": "peak",
+        "source": "survey, GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7842868646,
+      "lat": 49.2099049,
+      "lon": 19.6932891,
+      "tags": {
+        "ele": "1930",
+        "ele:bpv": "1946.73",
+        "natural": "peak",
+        "source": "survey, GPS",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8099737896,
+      "lat": 49.1673193,
+      "lon": 20.1727858,
+      "tags": {
+        "ele": "2289",
+        "ele:bpv": "2291.58",
+        "name": "Predný Slavkovský hrb",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8099737907,
+      "lat": 49.1672904,
+      "lon": 20.1798879,
+      "tags": {
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8099737911,
+      "lat": 49.1683198,
+      "lon": 20.1691895,
+      "tags": {
+        "ele": "2318",
+        "ele:bpv": "2319.77",
+        "name": "Zadný Slavkovský hrb",
+        "natural": "peak",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8304556330,
+      "lat": 49.2753897,
+      "lon": 19.7120042,
+      "tags": {
+        "ele": "1219",
+        "ele:bpv": "1218.91",
+        "name": "Zadná Kremenná",
+        "natural": "peak",
+        "source": "skgeodesy.sk,GK-1048/1994",
+        "source:ele:bpv": "ÚGKK SR DMR5.0",
+        "source:position": "ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8369397639,
+      "lat": 49.1520746,
+      "lon": 20.0366977,
+      "tags": {
+        "name": "Soliskový hrb",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8387804391,
+      "lat": 49.1959755,
+      "lon": 20.2096597,
+      "tags": {
+        "ele": "2560",
+        "name": "Posledná veža",
+        "natural": "peak",
+        "wikidata": "Q11826343"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8387804394,
+      "lat": 49.1958545,
+      "lon": 20.2106689,
+      "tags": {
+        "name": "Lomnická vežička",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8401677990,
+      "lat": 49.1614965,
+      "lon": 20.1392537,
+      "tags": {
+        "ele": "2525",
+        "name": "Čertova veža",
+        "natural": "peak",
+        "wikidata": "Q11823794"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8450586471,
+      "lat": 49.1861521,
+      "lon": 20.1703848,
+      "tags": {
+        "name": "Ľavá veža",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8450586472,
+      "lat": 49.186628,
+      "lon": 20.1699141,
+      "tags": {
+        "name": "Pravá veža",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8809914868,
+      "lat": 49.2752197,
+      "lon": 19.8136274,
+      "tags": {
+        "name": "Mała Furkaska",
+        "natural": "peak",
+        "source": "PRNG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8851171748,
+      "lat": 49.2249234,
+      "lon": 19.6795727,
+      "tags": {
+        "natural": "peak",
+        "source": "survey, GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9024560462,
+      "lat": 49.2123715,
+      "lon": 20.2044079,
+      "tags": {
+        "name": "Malý Kolový štít",
+        "natural": "peak",
+        "source": "LIDAR:ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9024560463,
+      "lat": 49.2124591,
+      "lon": 20.2050349,
+      "tags": {
+        "name": "Zadný Kopiniak",
+        "natural": "peak",
+        "source": "LIDAR:ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9024560464,
+      "lat": 49.2123461,
+      "lon": 20.2055714,
+      "tags": {
+        "name": "Prostredný Kopiniak",
+        "natural": "peak",
+        "source": "LIDAR:ÚGKK SR DMR5.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9024562392,
+      "lat": 49.2123558,
+      "lon": 20.2060193,
+      "tags": {
+        "name": "Predný Kopiniak",
+        "natural": "peak",
+        "source": "survery, GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9034593545,
+      "lat": 49.2565897,
+      "lon": 19.7212368,
+      "tags": {
+        "alt_name:pl": "Mała Osobita",
+        "alt_name:sk": "Málá Osobitá",
+        "ele": "1581",
+        "name:pl": "Jaworzyna",
+        "name:sk": "Javorina",
+        "natural": "peak",
+        "wikidata": "Q11723469",
+        "wikipedia": "sk:Javorina (vrch v Západných Tatrách)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9044968304,
+      "lat": 49.2171257,
+      "lon": 20.2130593,
+      "tags": {
+        "name": "Kozia Kôpka",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9044968305,
+      "lat": 49.2162965,
+      "lon": 20.2174783,
+      "tags": {
+        "name": "Východná Žeruchová veža",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9044968306,
+      "lat": 49.2167595,
+      "lon": 20.2162642,
+      "tags": {
+        "name": "Západná Žeruchová veža",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9044968309,
+      "lat": 49.2180413,
+      "lon": 20.225825,
+      "tags": {
+        "ele": "1744",
+        "name": "Žeruchová kopa",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9103876046,
+      "lat": 49.2209958,
+      "lon": 19.6819223,
+      "tags": {
+        "ele": "1910",
+        "natural": "peak",
+        "source": "Ortofotomozaika SR, survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9103876081,
+      "lat": 49.2153913,
+      "lon": 19.6839809,
+      "tags": {
+        "ele": "2030",
+        "natural": "peak",
+        "source": "GPS, survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9103891331,
+      "lat": 49.209023,
+      "lon": 19.6953582,
+      "tags": {
+        "ele": "1910",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9103891340,
+      "lat": 49.2089021,
+      "lon": 19.6970688,
+      "tags": {
+        "ele": "1890",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9103891353,
+      "lat": 49.2086156,
+      "lon": 19.6998764,
+      "tags": {
+        "ele": "1960",
+        "natural": "peak",
+        "source": "GPS, survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9103891373,
+      "lat": 49.2082844,
+      "lon": 19.7014958,
+      "tags": {
+        "name": "1980",
+        "natural": "peak",
+        "source": "GPS, survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9103891374,
+      "lat": 49.206094,
+      "lon": 19.7074114,
+      "tags": {
+        "ele": "2080",
+        "natural": "peak",
+        "source": "GPS, survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9105493524,
+      "lat": 49.2172397,
+      "lon": 19.6732628,
+      "tags": {
+        "ele": "1923",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9270519206,
+      "lat": 49.1673912,
+      "lon": 20.1137473,
+      "tags": {
+        "ele": "2340",
+        "name": "Východný železný štít",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9270519208,
+      "lat": 49.1688907,
+      "lon": 20.1095764,
+      "tags": {
+        "ele": "2360",
+        "name": "Západný železný štít",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9271113666,
+      "lat": 49.1699797,
+      "lon": 20.1082742,
+      "tags": {
+        "name": "Zlobná kopa",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9395365413,
+      "lat": 49.1868385,
+      "lon": 20.1605802,
+      "tags": {
+        "ele": "2305",
+        "name": "Kresaný roh",
+        "name:hu": "Keleti Rovinki-szarv",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9432740698,
+      "lat": 49.173278,
+      "lon": 19.890472,
+      "tags": {
+        "alt_name:sk": "Hlinov vrch",
+        "ele": "1863",
+        "name": "Holý vrch / Hlinov vrch",
+        "name:pl": "Hliński Wierch",
+        "name:sk": "Holý vrch",
+        "natural": "peak",
+        "wikidata": "Q9293147",
+        "wikipedia": "pl:Hliński Wierch"
+      }
+    }
+  ]
+}
